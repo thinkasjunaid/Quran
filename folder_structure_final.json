@@ -1,0 +1,4012 @@
+{
+    "Quran": [
+        {
+            "surah": "root",
+            "files": [
+                {
+                    "name": "digital-khatt-v2.json",
+                    "title": "Digital Khatt",
+                    "script_style": "Digital Khatt",
+                    "primary_tag": "Digitalkhatt"
+                },
+                {
+                    "name": "imlaei-script-ayah-by-ayah.json",
+                    "title": "Imlaei Script - Ayah by ayah",
+                    "script_style": "Imlaei Script",
+                    "primary_tag": "Me-quran/qpc-hafs"
+                },
+                {
+                    "name": "imlaei-simple.json",
+                    "title": "Imlaei simple - Ayah by ayah",
+                    "script_style": "Imlaei Simple",
+                    "primary_tag": "Me-quran/qpc-hafs"
+                },
+                {
+                    "name": "indopak-nastaleeq.json",
+                    "title": "Indopak Nastaleeq script - Ayah by Ayah",
+                    "script_style": "Indopak Nastaleeq",
+                    "primary_tag": "Indopak-nastaleeq"
+                },
+                {
+                    "name": "qpc-hafs.json",
+                    "title": "QPC Hafs script - Ayah by Ayah",
+                    "script_style": "QPC Hafs",
+                    "primary_tag": "QPC/qpc-hafs"
+                },
+                {
+                    "name": "uthmani-simple.json",
+                    "title": "Uthmani simple",
+                    "script_style": "Uthmani Simple",
+                    "primary_tag": "Me-quran"
+                },
+                {
+                    "name": "uthmani.json",
+                    "title": "Uthmani",
+                    "script_style": "Uthmani",
+                    "primary_tag": "Me quran"
+                }
+            ]
+        },
+        {
+            "surah": "audio/ayah-by-ayah-recitation",
+            "files": [
+                {
+                    "name": "ayah-recitation-abdul-basit-abdul-samad-mujawwad-hafs-949.json"
+                },
+                {
+                    "name": "ayah-recitation-abdul-basit-abdul-samad-murattal-hafs-950.json"
+                },
+                {
+                    "name": "ayah-recitation-abdul-rahman-al-sudais-murattal-hafs-951.json"
+                },
+                {
+                    "name": "ayah-recitation-abdur-rahman-as-sudais-recitation.json"
+                },
+                {
+                    "name": "ayah-recitation-abu-bakr-al-shatri-murattal-hafs-952.json"
+                },
+                {
+                    "name": "ayah-recitation-alnufais.json"
+                },
+                {
+                    "name": "ayah-recitation-hani-ar-rifai-recitation-murattal-hafs-68.json"
+                },
+                {
+                    "name": "ayah-recitation-khalifa-al-tunaiji-murattal-hafs-958.json"
+                },
+                {
+                    "name": "ayah-recitation-maher-al-mu-aiqly-murattal-hafs-948.json"
+                },
+                {
+                    "name": "ayah-recitation-mahmoud-khalil-al-husary-mujawwad-hafs-956.json"
+                },
+                {
+                    "name": "ayah-recitation-mahmoud-khalil-al-husary-murattal-hafs-955.json"
+                },
+                {
+                    "name": "ayah-recitation-mahmoud-khalil-al-husary-murattal-hafs-957.json"
+                },
+                {
+                    "name": "ayah-recitation-mishari-rashid-al-afasy-murattal-hafs-953.json"
+                },
+                {
+                    "name": "ayah-recitation-mohamed-al-tablawi-recitation-murattal-hafs-73.json"
+                },
+                {
+                    "name": "ayah-recitation-muhammad-siddiq-al-minshawi-murattal-hafs-959.json"
+                },
+                {
+                    "name": "ayah-recitation-saad-al-ghamdi-murattal-hafs-954.json"
+                },
+                {
+                    "name": "ayah-recitation-saud-al-shuraim-murattal-hafs-960.json"
+                },
+                {
+                    "name": "ayah-recitation-yasser-al-dosari-murattal-hafs-961.json"
+                }
+            ]
+        },
+        {
+            "surah": "audio/surah-recitation/ayah-by-ayah-segments",
+            "files": [
+                {
+                    "name": "surah-recitation-abdullah-ali-jabir.json"
+                },
+                {
+                    "name": "surah-recitation-abdullah-awad-al-juhani.json"
+                },
+                {
+                    "name": "surah-recitation-abdullah-basfar-with-ibrahim-walk-saheeh-intl-translation.json"
+                },
+                {
+                    "name": "surah-recitation-abdullah-basfar.json"
+                },
+                {
+                    "name": "surah-recitation-abdullah-matroud.json"
+                },
+                {
+                    "name": "surah-recitation-ahmad-nauina.json"
+                },
+                {
+                    "name": "surah-recitation-akram-al-alaqmi.json"
+                },
+                {
+                    "name": "surah-recitation-ali-hajjaj-alsouasi.json"
+                },
+                {
+                    "name": "surah-recitation-aziz-alili.json"
+                },
+                {
+                    "name": "surah-recitation-bandar-baleela.json"
+                },
+                {
+                    "name": "surah-recitation-fares-abbad.json"
+                },
+                {
+                    "name": "surah-recitation-mahmood-ali-al-bana.json"
+                },
+                {
+                    "name": "surah-recitation-mahmoud-khaleel-al-husary.json"
+                },
+                {
+                    "name": "surah-recitation-mishari-ibn-rashid-al-afasy-with-ibrahim-walk-saheeh-intl-translation.json"
+                },
+                {
+                    "name": "surah-recitation-mohammad-al-tablawi.json"
+                },
+                {
+                    "name": "surah-recitation-mostafa-ismaeel.json"
+                },
+                {
+                    "name": "surah-recitation-muhammad-jibreel.json"
+                },
+                {
+                    "name": "surah-recitation-nasser-al-qatami.json"
+                },
+                {
+                    "name": "surah-recitation-saad-al-ghamdi.json"
+                },
+                {
+                    "name": "surah-recitation-sahl-yasin.json"
+                },
+                {
+                    "name": "surah-recitation-salah-al-budair.json"
+                },
+                {
+                    "name": "surah-recitation-salah-bukhatir.json"
+                }
+            ]
+        },
+        {
+            "surah": "audio/surah-recitation/no-segments",
+            "files": [
+                {
+                    "name": "surah-recitation-abdallah-abdal.json"
+                },
+                {
+                    "name": "surah-recitation-abdul-mun-im-abdul-mubdi.json"
+                },
+                {
+                    "name": "surah-recitation-abdulbaset-abdulsamad-with-ibrahim-walk-saheeh-intl-translation.json"
+                },
+                {
+                    "name": "surah-recitation-abdulbaset-abdulsamad-with-naeem-sultan-pickthall-translation.json"
+                },
+                {
+                    "name": "surah-recitation-abdulkareem-al-hazmi.json"
+                },
+                {
+                    "name": "surah-recitation-abdullah-ali-jabir-taraweeh.json"
+                },
+                {
+                    "name": "surah-recitation-abdullah-khayat.json"
+                },
+                {
+                    "name": "surah-recitation-abdulwadood-haneef.json"
+                },
+                {
+                    "name": "surah-recitation-abdulwadud-haneef.json"
+                },
+                {
+                    "name": "surah-recitation-abdur-rashid-sufi-abi-al-haarith-an-al-kasaa-ee.json"
+                },
+                {
+                    "name": "surah-recitation-abdur-rashid-sufi-ad-doori-an-abi-amr.json"
+                },
+                {
+                    "name": "surah-recitation-abdur-rashid-sufi-shu-bah-an-asim.json"
+                },
+                {
+                    "name": "surah-recitation-abdur-rashid-sufi-soosi.json"
+                },
+                {
+                    "name": "surah-recitation-abdur-razaq-bin-abtan-al-dulaimi-mujawwad.json"
+                },
+                {
+                    "name": "surah-recitation-abu-bakr-al-shatri-taraweeh.json"
+                },
+                {
+                    "name": "surah-recitation-adel-kalbani.json"
+                },
+                {
+                    "name": "surah-recitation-al-hussayni-al-azazy-with-children.json"
+                },
+                {
+                    "name": "surah-recitation-ali-abdur-rahman-al-huthaify.json"
+                },
+                {
+                    "name": "surah-recitation-ali-al-huthaify-qaloon.json"
+                },
+                {
+                    "name": "surah-recitation-asim-abdul-aleem.json"
+                },
+                {
+                    "name": "surah-recitation-fatih-seferagic.json"
+                },
+                {
+                    "name": "surah-recitation-hamad-sinan.json"
+                },
+                {
+                    "name": "surah-recitation-ibrahim-al-akhdar.json"
+                },
+                {
+                    "name": "surah-recitation-imad-zuhair-hafez.json"
+                },
+                {
+                    "name": "surah-recitation-khalid-al-qahtani.json"
+                },
+                {
+                    "name": "surah-recitation-mahmoud-khaleel-al-husary-muallam.json"
+                },
+                {
+                    "name": "surah-recitation-mahmoud-khaleel-al-husary-with-children.json"
+                },
+                {
+                    "name": "surah-recitation-mohammad-ismaeel-al-muqaddim.json"
+                },
+                {
+                    "name": "surah-recitation-muhammad-abdul-kareem.json"
+                },
+                {
+                    "name": "surah-recitation-muhammad-ayyoob.json"
+                },
+                {
+                    "name": "surah-recitation-muhammad-ayyub-with-mikaal-waters-muhsin-khan-translation.json"
+                },
+                {
+                    "name": "surah-recitation-muhammad-hassan.json"
+                },
+                {
+                    "name": "surah-recitation-muhammad-sulaiman-patel.json"
+                },
+                {
+                    "name": "surah-recitation-nabil-ar-rifai.json"
+                },
+                {
+                    "name": "surah-recitation-noreen-siddiq-ad-doori-an-abi-amr.json"
+                },
+                {
+                    "name": "surah-recitation-sa-ud-ash-shuraym-older-recitation.json"
+                },
+                {
+                    "name": "surah-recitation-sadaqat-ali.json"
+                },
+                {
+                    "name": "surah-recitation-shakir-qasami-with-aslam-athar-pickthall-translation.json"
+                },
+                {
+                    "name": "surah-recitation-sudais-and-shuraym-older-recitation.json"
+                },
+                {
+                    "name": "surah-recitation-sudais-and-shuraym-with-aslam-athar-pickthall-translation.json"
+                },
+                {
+                    "name": "surah-recitation-sudais-and-shuraym-with-naeem-sultan-pickthall-translation.json"
+                },
+                {
+                    "name": "surah-recitation-tawfeeq-ibn-sa-id-as-sawa-igh.json"
+                },
+                {
+                    "name": "surah-recitation-wadee-hammadi-al-yamani.json"
+                }
+            ]
+        },
+        {
+            "surah": "audio/surah-recitation/with-kids",
+            "files": [
+                {
+                    "name": "surah-recitation-muhammad-siddiq-al-minshawi-with-kids.json"
+                }
+            ]
+        },
+        {
+            "surah": "audio/surah-recitation/word-by-word-segments",
+            "files": [
+                {
+                    "name": "surah-recitation-abdul-basit-abdul-samad.json"
+                },
+                {
+                    "name": "surah-recitation-abu-bakr-al-shatri.json"
+                },
+                {
+                    "name": "surah-recitation-ahmad-alnufais.json"
+                },
+                {
+                    "name": "surah-recitation-hady-toure.json"
+                },
+                {
+                    "name": "surah-recitation-khalid-al-jalil.json"
+                },
+                {
+                    "name": "surah-recitation-khalifah-taniji.json"
+                },
+                {
+                    "name": "surah-recitation-maher-al-muaiqly.json"
+                },
+                {
+                    "name": "surah-recitation-mahmoud-khalil-al-husary.json"
+                },
+                {
+                    "name": "surah-recitation-mishari-rashid-al-afasy-streaming.json"
+                },
+                {
+                    "name": "surah-recitation-mishari-rashid-al-afasy.json"
+                },
+                {
+                    "name": "surah-recitation-muhammad-siddiq-al-minshawi.json"
+                },
+                {
+                    "name": "surah-recitation-sa-ud-ash-shuraym.json"
+                },
+                {
+                    "name": "surah-recitation-sheikh-abu-bakr-dhaby-hafs-2020.json"
+                },
+                {
+                    "name": "surah-recitation-yasser-ad-dussary.json"
+                }
+            ]
+        },
+         {
+            "surah": "metadata",
+            "files": [
+                {
+                    "name": "quran-metadata-ayah.json"
+                },
+                {
+                    "name": "quran-metadata-hizb.json"
+                },
+                {
+                    "name": "quran-metadata-juz.json"
+                },
+                {
+                    "name": "quran-metadata-manzil.json"
+                },
+                {
+                    "name": "quran-metadata-rub.json"
+                },
+                {
+                    "name": "quran-metadata-ruku.json"
+                },
+                {
+                    "name": "quran-metadata-sajda.json"
+                },
+                {
+                    "name": "quran-metadata-surah-name.json"
+                },
+                {
+                    "name": "surah_meta_data.json"
+                }
+            ]
+        },
+        {
+            "surah": "metadata/fonts/DigitalKhattIndoPak.otf",
+            "files": [
+                {
+                    "name": "DigitalKhattIndoPak.otf"
+                }
+            ]
+        },
+        {
+            "surah": "metadata/fonts/Indopak_Nastaleeq_font.ttf",
+            "files": [
+                {
+                    "name": "font.ttf"
+                }
+            ]
+        },
+        {
+            "surah": "metadata/fonts/KFGQPCNastaleeq-Regular.ttf",
+            "files": [
+                {
+                    "name": "KFGQPCNastaleeq-Regular.ttf"
+                }
+            ]
+        },
+        {
+            "surah": "metadata/fonts/QCF_SurahHeader_COLOR-Regular.ttf",
+            "files": [
+                {
+                    "name": "QCF_SurahHeader_COLOR-Regular.ttf"
+                }
+            ]
+        },
+        {
+            "surah": "metadata/fonts/QPC V4 Tajweed Font.ttf",
+            "files": [
+                {
+                    "name": "p1.ttf"
+                },
+                {
+                    "name": "p10.ttf"
+                },
+                {
+                    "name": "p11.ttf"
+                },
+                {
+                    "name": "p118.ttf"
+                },
+                {
+                    "name": "p119.ttf"
+                },
+                {
+                    "name": "p12.ttf"
+                },
+                {
+                    "name": "p120.ttf"
+                },
+                {
+                    "name": "p121.ttf"
+                },
+                {
+                    "name": "p122.ttf"
+                },
+                {
+                    "name": "p123.ttf"
+                },
+                {
+                    "name": "p124.ttf"
+                },
+                {
+                    "name": "p126.ttf"
+                },
+                {
+                    "name": "p127.ttf"
+                },
+                {
+                    "name": "p128.ttf"
+                },
+                {
+                    "name": "p129.ttf"
+                },
+                {
+                    "name": "p13.ttf"
+                },
+                {
+                    "name": "p130.ttf"
+                },
+                {
+                    "name": "p131.ttf"
+                },
+                {
+                    "name": "p132.ttf"
+                },
+                {
+                    "name": "p133.ttf"
+                },
+                {
+                    "name": "p134.ttf"
+                },
+                {
+                    "name": "p135.ttf"
+                },
+                {
+                    "name": "p136.ttf"
+                },
+                {
+                    "name": "p137.ttf"
+                },
+                {
+                    "name": "p138.ttf"
+                },
+                {
+                    "name": "p139.ttf"
+                },
+                {
+                    "name": "p14.ttf"
+                },
+                {
+                    "name": "p140.ttf"
+                },
+                {
+                    "name": "p141.ttf"
+                },
+                {
+                    "name": "p142.ttf"
+                },
+                {
+                    "name": "p143.ttf"
+                },
+                {
+                    "name": "p144.ttf"
+                },
+                {
+                    "name": "p145.ttf"
+                },
+                {
+                    "name": "p146.ttf"
+                },
+                {
+                    "name": "p147.ttf"
+                },
+                {
+                    "name": "p148.ttf"
+                },
+                {
+                    "name": "p149.ttf"
+                },
+                {
+                    "name": "p15.ttf"
+                },
+                {
+                    "name": "p150.ttf"
+                },
+                {
+                    "name": "p151.ttf"
+                },
+                {
+                    "name": "p152.ttf"
+                },
+                {
+                    "name": "p153.ttf"
+                },
+                {
+                    "name": "p154.ttf"
+                },
+                {
+                    "name": "p155.ttf"
+                },
+                {
+                    "name": "p156.ttf"
+                },
+                {
+                    "name": "p157.ttf"
+                },
+                {
+                    "name": "p158.ttf"
+                },
+                {
+                    "name": "p159.ttf"
+                },
+                {
+                    "name": "p16.ttf"
+                },
+                {
+                    "name": "p160.ttf"
+                },
+                {
+                    "name": "p161.ttf"
+                },
+                {
+                    "name": "p162.ttf"
+                },
+                {
+                    "name": "p163.ttf"
+                },
+                {
+                    "name": "p164.ttf"
+                },
+                {
+                    "name": "p165.ttf"
+                },
+                {
+                    "name": "p166.ttf"
+                },
+                {
+                    "name": "p167.ttf"
+                },
+                {
+                    "name": "p168.ttf"
+                },
+                {
+                    "name": "p169.ttf"
+                },
+                {
+                    "name": "p17.ttf"
+                },
+                {
+                    "name": "p170.ttf"
+                },
+                {
+                    "name": "p171.ttf"
+                },
+                {
+                    "name": "p172.ttf"
+                },
+                {
+                    "name": "p173.ttf"
+                },
+                {
+                    "name": "p174.ttf"
+                },
+                {
+                    "name": "p175.ttf"
+                },
+                {
+                    "name": "p176.ttf"
+                },
+                {
+                    "name": "p177.ttf"
+                },
+                {
+                    "name": "p178.ttf"
+                },
+                {
+                    "name": "p179.ttf"
+                },
+                {
+                    "name": "p18.ttf"
+                },
+                {
+                    "name": "p180.ttf"
+                },
+                {
+                    "name": "p181.ttf"
+                },
+                {
+                    "name": "p182.ttf"
+                },
+                {
+                    "name": "p183.ttf"
+                },
+                {
+                    "name": "p184.ttf"
+                },
+                {
+                    "name": "p185.ttf"
+                },
+                {
+                    "name": "p186.ttf"
+                },
+                {
+                    "name": "p187.ttf"
+                },
+                {
+                    "name": "p188.ttf"
+                },
+                {
+                    "name": "p189.ttf"
+                },
+                {
+                    "name": "p190.ttf"
+                },
+                {
+                    "name": "p191.ttf"
+                },
+                {
+                    "name": "p192.ttf"
+                },
+                {
+                    "name": "p193.ttf"
+                },
+                {
+                    "name": "p194.ttf"
+                },
+                {
+                    "name": "p195.ttf"
+                },
+                {
+                    "name": "p196.ttf"
+                },
+                {
+                    "name": "p197.ttf"
+                },
+                {
+                    "name": "p198.ttf"
+                },
+                {
+                    "name": "p199.ttf"
+                },
+                {
+                    "name": "p2.ttf"
+                },
+                {
+                    "name": "p200.ttf"
+                },
+                {
+                    "name": "p201.ttf"
+                },
+                {
+                    "name": "p202.ttf"
+                },
+                {
+                    "name": "p203.ttf"
+                },
+                {
+                    "name": "p204.ttf"
+                },
+                {
+                    "name": "p205.ttf"
+                },
+                {
+                    "name": "p206.ttf"
+                },
+                {
+                    "name": "p207.ttf"
+                },
+                {
+                    "name": "p208.ttf"
+                },
+                {
+                    "name": "p209.ttf"
+                },
+                {
+                    "name": "p210.ttf"
+                },
+                {
+                    "name": "p211.ttf"
+                },
+                {
+                    "name": "p212.ttf"
+                },
+                {
+                    "name": "p213.ttf"
+                },
+                {
+                    "name": "p214.ttf"
+                },
+                {
+                    "name": "p215.ttf"
+                },
+                {
+                    "name": "p216.ttf"
+                },
+                {
+                    "name": "p217.ttf"
+                },
+                {
+                    "name": "p218.ttf"
+                },
+                {
+                    "name": "p219.ttf"
+                },
+                {
+                    "name": "p22.ttf"
+                },
+                {
+                    "name": "p220.ttf"
+                },
+                {
+                    "name": "p221.ttf"
+                },
+                {
+                    "name": "p222.ttf"
+                },
+                {
+                    "name": "p223.ttf"
+                },
+                {
+                    "name": "p224.ttf"
+                },
+                {
+                    "name": "p225.ttf"
+                },
+                {
+                    "name": "p226.ttf"
+                },
+                {
+                    "name": "p227.ttf"
+                },
+                {
+                    "name": "p228.ttf"
+                },
+                {
+                    "name": "p229.ttf"
+                },
+                {
+                    "name": "p23.ttf"
+                },
+                {
+                    "name": "p230.ttf"
+                },
+                {
+                    "name": "p231.ttf"
+                },
+                {
+                    "name": "p232.ttf"
+                },
+                {
+                    "name": "p233.ttf"
+                },
+                {
+                    "name": "p234.ttf"
+                },
+                {
+                    "name": "p235.ttf"
+                },
+                {
+                    "name": "p236.ttf"
+                },
+                {
+                    "name": "p237.ttf"
+                },
+                {
+                    "name": "p238.ttf"
+                },
+                {
+                    "name": "p239.ttf"
+                },
+                {
+                    "name": "p24.ttf"
+                },
+                {
+                    "name": "p240.ttf"
+                },
+                {
+                    "name": "p241.ttf"
+                },
+                {
+                    "name": "p242.ttf"
+                },
+                {
+                    "name": "p243.ttf"
+                },
+                {
+                    "name": "p244.ttf"
+                },
+                {
+                    "name": "p245.ttf"
+                },
+                {
+                    "name": "p246.ttf"
+                },
+                {
+                    "name": "p247.ttf"
+                },
+                {
+                    "name": "p248.ttf"
+                },
+                {
+                    "name": "p249.ttf"
+                },
+                {
+                    "name": "p25.ttf"
+                },
+                {
+                    "name": "p250.ttf"
+                },
+                {
+                    "name": "p251.ttf"
+                },
+                {
+                    "name": "p252.ttf"
+                },
+                {
+                    "name": "p253.ttf"
+                },
+                {
+                    "name": "p254.ttf"
+                },
+                {
+                    "name": "p255.ttf"
+                },
+                {
+                    "name": "p256.ttf"
+                },
+                {
+                    "name": "p257.ttf"
+                },
+                {
+                    "name": "p258.ttf"
+                },
+                {
+                    "name": "p259.ttf"
+                },
+                {
+                    "name": "p260.ttf"
+                },
+                {
+                    "name": "p261.ttf"
+                },
+                {
+                    "name": "p262.ttf"
+                },
+                {
+                    "name": "p263.ttf"
+                },
+                {
+                    "name": "p264.ttf"
+                },
+                {
+                    "name": "p265.ttf"
+                },
+                {
+                    "name": "p266.ttf"
+                },
+                {
+                    "name": "p267.ttf"
+                },
+                {
+                    "name": "p268.ttf"
+                },
+                {
+                    "name": "p269.ttf"
+                },
+                {
+                    "name": "p270.ttf"
+                },
+                {
+                    "name": "p271.ttf"
+                },
+                {
+                    "name": "p272.ttf"
+                },
+                {
+                    "name": "p273.ttf"
+                },
+                {
+                    "name": "p274.ttf"
+                },
+                {
+                    "name": "p275.ttf"
+                },
+                {
+                    "name": "p276.ttf"
+                },
+                {
+                    "name": "p277.ttf"
+                },
+                {
+                    "name": "p278.ttf"
+                },
+                {
+                    "name": "p279.ttf"
+                },
+                {
+                    "name": "p280.ttf"
+                },
+                {
+                    "name": "p281.ttf"
+                },
+                {
+                    "name": "p282.ttf"
+                },
+                {
+                    "name": "p283.ttf"
+                },
+                {
+                    "name": "p284.ttf"
+                },
+                {
+                    "name": "p285.ttf"
+                },
+                {
+                    "name": "p286.ttf"
+                },
+                {
+                    "name": "p287.ttf"
+                },
+                {
+                    "name": "p288.ttf"
+                },
+                {
+                    "name": "p289.ttf"
+                },
+                {
+                    "name": "p290.ttf"
+                },
+                {
+                    "name": "p291.ttf"
+                },
+                {
+                    "name": "p292.ttf"
+                },
+                {
+                    "name": "p293.ttf"
+                },
+                {
+                    "name": "p294.ttf"
+                },
+                {
+                    "name": "p295.ttf"
+                },
+                {
+                    "name": "p296.ttf"
+                },
+                {
+                    "name": "p297.ttf"
+                },
+                {
+                    "name": "p298.ttf"
+                },
+                {
+                    "name": "p299.ttf"
+                },
+                {
+                    "name": "p3.ttf"
+                },
+                {
+                    "name": "p300.ttf"
+                },
+                {
+                    "name": "p301.ttf"
+                },
+                {
+                    "name": "p302.ttf"
+                },
+                {
+                    "name": "p303.ttf"
+                },
+                {
+                    "name": "p304.ttf"
+                },
+                {
+                    "name": "p305.ttf"
+                },
+                {
+                    "name": "p306.ttf"
+                },
+                {
+                    "name": "p307.ttf"
+                },
+                {
+                    "name": "p308.ttf"
+                },
+                {
+                    "name": "p309.ttf"
+                },
+                {
+                    "name": "p310.ttf"
+                },
+                {
+                    "name": "p311.ttf"
+                },
+                {
+                    "name": "p312.ttf"
+                },
+                {
+                    "name": "p313.ttf"
+                },
+                {
+                    "name": "p314.ttf"
+                },
+                {
+                    "name": "p315.ttf"
+                },
+                {
+                    "name": "p316.ttf"
+                },
+                {
+                    "name": "p317.ttf"
+                },
+                {
+                    "name": "p318.ttf"
+                },
+                {
+                    "name": "p319.ttf"
+                },
+                {
+                    "name": "p320.ttf"
+                },
+                {
+                    "name": "p321.ttf"
+                },
+                {
+                    "name": "p322.ttf"
+                },
+                {
+                    "name": "p323.ttf"
+                },
+                {
+                    "name": "p324.ttf"
+                },
+                {
+                    "name": "p325.ttf"
+                },
+                {
+                    "name": "p326.ttf"
+                },
+                {
+                    "name": "p327.ttf"
+                },
+                {
+                    "name": "p328.ttf"
+                },
+                {
+                    "name": "p329.ttf"
+                },
+                {
+                    "name": "p330.ttf"
+                },
+                {
+                    "name": "p331.ttf"
+                },
+                {
+                    "name": "p332.ttf"
+                },
+                {
+                    "name": "p333.ttf"
+                },
+                {
+                    "name": "p334.ttf"
+                },
+                {
+                    "name": "p335.ttf"
+                },
+                {
+                    "name": "p336.ttf"
+                },
+                {
+                    "name": "p337.ttf"
+                },
+                {
+                    "name": "p338.ttf"
+                },
+                {
+                    "name": "p339.ttf"
+                },
+                {
+                    "name": "p340.ttf"
+                },
+                {
+                    "name": "p341.ttf"
+                },
+                {
+                    "name": "p342.ttf"
+                },
+                {
+                    "name": "p343.ttf"
+                },
+                {
+                    "name": "p344.ttf"
+                },
+                {
+                    "name": "p345.ttf"
+                },
+                {
+                    "name": "p346.ttf"
+                },
+                {
+                    "name": "p347.ttf"
+                },
+                {
+                    "name": "p348.ttf"
+                },
+                {
+                    "name": "p349.ttf"
+                },
+                {
+                    "name": "p35.ttf"
+                },
+                {
+                    "name": "p350.ttf"
+                },
+                {
+                    "name": "p351.ttf"
+                },
+                {
+                    "name": "p352.ttf"
+                },
+                {
+                    "name": "p353.ttf"
+                },
+                {
+                    "name": "p354.ttf"
+                },
+                {
+                    "name": "p355.ttf"
+                },
+                {
+                    "name": "p356.ttf"
+                },
+                {
+                    "name": "p357.ttf"
+                },
+                {
+                    "name": "p358.ttf"
+                },
+                {
+                    "name": "p359.ttf"
+                },
+                {
+                    "name": "p360.ttf"
+                },
+                {
+                    "name": "p361.ttf"
+                },
+                {
+                    "name": "p362.ttf"
+                },
+                {
+                    "name": "p363.ttf"
+                },
+                {
+                    "name": "p364.ttf"
+                },
+                {
+                    "name": "p365.ttf"
+                },
+                {
+                    "name": "p366.ttf"
+                },
+                {
+                    "name": "p367.ttf"
+                },
+                {
+                    "name": "p368.ttf"
+                },
+                {
+                    "name": "p369.ttf"
+                },
+                {
+                    "name": "p370.ttf"
+                },
+                {
+                    "name": "p371.ttf"
+                },
+                {
+                    "name": "p372.ttf"
+                },
+                {
+                    "name": "p373.ttf"
+                },
+                {
+                    "name": "p374.ttf"
+                },
+                {
+                    "name": "p375.ttf"
+                },
+                {
+                    "name": "p376.ttf"
+                },
+                {
+                    "name": "p377.ttf"
+                },
+                {
+                    "name": "p378.ttf"
+                },
+                {
+                    "name": "p379.ttf"
+                },
+                {
+                    "name": "p380.ttf"
+                },
+                {
+                    "name": "p381.ttf"
+                },
+                {
+                    "name": "p382.ttf"
+                },
+                {
+                    "name": "p383.ttf"
+                },
+                {
+                    "name": "p384.ttf"
+                },
+                {
+                    "name": "p385.ttf"
+                },
+                {
+                    "name": "p386.ttf"
+                },
+                {
+                    "name": "p387.ttf"
+                },
+                {
+                    "name": "p388.ttf"
+                },
+                {
+                    "name": "p389.ttf"
+                },
+                {
+                    "name": "p390.ttf"
+                },
+                {
+                    "name": "p391.ttf"
+                },
+                {
+                    "name": "p392.ttf"
+                },
+                {
+                    "name": "p393.ttf"
+                },
+                {
+                    "name": "p394.ttf"
+                },
+                {
+                    "name": "p395.ttf"
+                },
+                {
+                    "name": "p396.ttf"
+                },
+                {
+                    "name": "p397.ttf"
+                },
+                {
+                    "name": "p398.ttf"
+                },
+                {
+                    "name": "p399.ttf"
+                },
+                {
+                    "name": "p4.ttf"
+                },
+                {
+                    "name": "p400.ttf"
+                },
+                {
+                    "name": "p401.ttf"
+                },
+                {
+                    "name": "p402.ttf"
+                },
+                {
+                    "name": "p403.ttf"
+                },
+                {
+                    "name": "p404.ttf"
+                },
+                {
+                    "name": "p405.ttf"
+                },
+                {
+                    "name": "p406.ttf"
+                },
+                {
+                    "name": "p407.ttf"
+                },
+                {
+                    "name": "p408.ttf"
+                },
+                {
+                    "name": "p409.ttf"
+                },
+                {
+                    "name": "p410.ttf"
+                },
+                {
+                    "name": "p411.ttf"
+                },
+                {
+                    "name": "p412.ttf"
+                },
+                {
+                    "name": "p413.ttf"
+                },
+                {
+                    "name": "p414.ttf"
+                },
+                {
+                    "name": "p415.ttf"
+                },
+                {
+                    "name": "p416.ttf"
+                },
+                {
+                    "name": "p417.ttf"
+                },
+                {
+                    "name": "p418.ttf"
+                },
+                {
+                    "name": "p419.ttf"
+                },
+                {
+                    "name": "p420.ttf"
+                },
+                {
+                    "name": "p421.ttf"
+                },
+                {
+                    "name": "p422.ttf"
+                },
+                {
+                    "name": "p423.ttf"
+                },
+                {
+                    "name": "p424.ttf"
+                },
+                {
+                    "name": "p425.ttf"
+                },
+                {
+                    "name": "p426.ttf"
+                },
+                {
+                    "name": "p427.ttf"
+                },
+                {
+                    "name": "p428.ttf"
+                },
+                {
+                    "name": "p429.ttf"
+                },
+                {
+                    "name": "p430.ttf"
+                },
+                {
+                    "name": "p431.ttf"
+                },
+                {
+                    "name": "p432.ttf"
+                },
+                {
+                    "name": "p433.ttf"
+                },
+                {
+                    "name": "p434.ttf"
+                },
+                {
+                    "name": "p435.ttf"
+                },
+                {
+                    "name": "p436.ttf"
+                },
+                {
+                    "name": "p437.ttf"
+                },
+                {
+                    "name": "p438.ttf"
+                },
+                {
+                    "name": "p439.ttf"
+                },
+                {
+                    "name": "p440.ttf"
+                },
+                {
+                    "name": "p441.ttf"
+                },
+                {
+                    "name": "p442.ttf"
+                },
+                {
+                    "name": "p443.ttf"
+                },
+                {
+                    "name": "p444.ttf"
+                },
+                {
+                    "name": "p445.ttf"
+                },
+                {
+                    "name": "p446.ttf"
+                },
+                {
+                    "name": "p447.ttf"
+                },
+                {
+                    "name": "p448.ttf"
+                },
+                {
+                    "name": "p449.ttf"
+                },
+                {
+                    "name": "p450.ttf"
+                },
+                {
+                    "name": "p451.ttf"
+                },
+                {
+                    "name": "p452.ttf"
+                },
+                {
+                    "name": "p453.ttf"
+                },
+                {
+                    "name": "p454.ttf"
+                },
+                {
+                    "name": "p455.ttf"
+                },
+                {
+                    "name": "p456.ttf"
+                },
+                {
+                    "name": "p457.ttf"
+                },
+                {
+                    "name": "p458.ttf"
+                },
+                {
+                    "name": "p459.ttf"
+                },
+                {
+                    "name": "p460.ttf"
+                },
+                {
+                    "name": "p461.ttf"
+                },
+                {
+                    "name": "p462.ttf"
+                },
+                {
+                    "name": "p463.ttf"
+                },
+                {
+                    "name": "p464.ttf"
+                },
+                {
+                    "name": "p465.ttf"
+                },
+                {
+                    "name": "p466.ttf"
+                },
+                {
+                    "name": "p467.ttf"
+                },
+                {
+                    "name": "p468.ttf"
+                },
+                {
+                    "name": "p469.ttf"
+                },
+                {
+                    "name": "p470.ttf"
+                },
+                {
+                    "name": "p471.ttf"
+                },
+                {
+                    "name": "p472.ttf"
+                },
+                {
+                    "name": "p473.ttf"
+                },
+                {
+                    "name": "p474.ttf"
+                },
+                {
+                    "name": "p475.ttf"
+                },
+                {
+                    "name": "p476.ttf"
+                },
+                {
+                    "name": "p477.ttf"
+                },
+                {
+                    "name": "p478.ttf"
+                },
+                {
+                    "name": "p479.ttf"
+                },
+                {
+                    "name": "p480.ttf"
+                },
+                {
+                    "name": "p481.ttf"
+                },
+                {
+                    "name": "p482.ttf"
+                },
+                {
+                    "name": "p483.ttf"
+                },
+                {
+                    "name": "p484.ttf"
+                },
+                {
+                    "name": "p485.ttf"
+                },
+                {
+                    "name": "p486.ttf"
+                },
+                {
+                    "name": "p487.ttf"
+                },
+                {
+                    "name": "p488.ttf"
+                },
+                {
+                    "name": "p489.ttf"
+                },
+                {
+                    "name": "p490.ttf"
+                },
+                {
+                    "name": "p491.ttf"
+                },
+                {
+                    "name": "p492.ttf"
+                },
+                {
+                    "name": "p493.ttf"
+                },
+                {
+                    "name": "p494.ttf"
+                },
+                {
+                    "name": "p495.ttf"
+                },
+                {
+                    "name": "p496.ttf"
+                },
+                {
+                    "name": "p497.ttf"
+                },
+                {
+                    "name": "p498.ttf"
+                },
+                {
+                    "name": "p499.ttf"
+                },
+                {
+                    "name": "p5.ttf"
+                },
+                {
+                    "name": "p500.ttf"
+                },
+                {
+                    "name": "p501.ttf"
+                },
+                {
+                    "name": "p502.ttf"
+                },
+                {
+                    "name": "p503.ttf"
+                },
+                {
+                    "name": "p504.ttf"
+                },
+                {
+                    "name": "p505.ttf"
+                },
+                {
+                    "name": "p506.ttf"
+                },
+                {
+                    "name": "p507.ttf"
+                },
+                {
+                    "name": "p508.ttf"
+                },
+                {
+                    "name": "p509.ttf"
+                },
+                {
+                    "name": "p510.ttf"
+                },
+                {
+                    "name": "p511.ttf"
+                },
+                {
+                    "name": "p512.ttf"
+                },
+                {
+                    "name": "p513.ttf"
+                },
+                {
+                    "name": "p514.ttf"
+                },
+                {
+                    "name": "p515.ttf"
+                },
+                {
+                    "name": "p516.ttf"
+                },
+                {
+                    "name": "p517.ttf"
+                },
+                {
+                    "name": "p518.ttf"
+                },
+                {
+                    "name": "p519.ttf"
+                },
+                {
+                    "name": "p520.ttf"
+                },
+                {
+                    "name": "p521.ttf"
+                },
+                {
+                    "name": "p522.ttf"
+                },
+                {
+                    "name": "p523.ttf"
+                },
+                {
+                    "name": "p524.ttf"
+                },
+                {
+                    "name": "p525.ttf"
+                },
+                {
+                    "name": "p526.ttf"
+                },
+                {
+                    "name": "p527.ttf"
+                },
+                {
+                    "name": "p528.ttf"
+                },
+                {
+                    "name": "p529.ttf"
+                },
+                {
+                    "name": "p530.ttf"
+                },
+                {
+                    "name": "p531.ttf"
+                },
+                {
+                    "name": "p532.ttf"
+                },
+                {
+                    "name": "p533.ttf"
+                },
+                {
+                    "name": "p534.ttf"
+                },
+                {
+                    "name": "p535.ttf"
+                },
+                {
+                    "name": "p536.ttf"
+                },
+                {
+                    "name": "p537.ttf"
+                },
+                {
+                    "name": "p538.ttf"
+                },
+                {
+                    "name": "p539.ttf"
+                },
+                {
+                    "name": "p540.ttf"
+                },
+                {
+                    "name": "p541.ttf"
+                },
+                {
+                    "name": "p542.ttf"
+                },
+                {
+                    "name": "p543.ttf"
+                },
+                {
+                    "name": "p544.ttf"
+                },
+                {
+                    "name": "p545.ttf"
+                },
+                {
+                    "name": "p546.ttf"
+                },
+                {
+                    "name": "p547.ttf"
+                },
+                {
+                    "name": "p548.ttf"
+                },
+                {
+                    "name": "p549.ttf"
+                },
+                {
+                    "name": "p550.ttf"
+                },
+                {
+                    "name": "p551.ttf"
+                },
+                {
+                    "name": "p552.ttf"
+                },
+                {
+                    "name": "p553.ttf"
+                },
+                {
+                    "name": "p554.ttf"
+                },
+                {
+                    "name": "p555.ttf"
+                },
+                {
+                    "name": "p556.ttf"
+                },
+                {
+                    "name": "p557.ttf"
+                },
+                {
+                    "name": "p558.ttf"
+                },
+                {
+                    "name": "p559.ttf"
+                },
+                {
+                    "name": "p560.ttf"
+                },
+                {
+                    "name": "p561.ttf"
+                },
+                {
+                    "name": "p562.ttf"
+                },
+                {
+                    "name": "p563.ttf"
+                },
+                {
+                    "name": "p564.ttf"
+                },
+                {
+                    "name": "p565.ttf"
+                },
+                {
+                    "name": "p566.ttf"
+                },
+                {
+                    "name": "p567.ttf"
+                },
+                {
+                    "name": "p568.ttf"
+                },
+                {
+                    "name": "p569.ttf"
+                },
+                {
+                    "name": "p570.ttf"
+                },
+                {
+                    "name": "p571.ttf"
+                },
+                {
+                    "name": "p572.ttf"
+                },
+                {
+                    "name": "p573.ttf"
+                },
+                {
+                    "name": "p574.ttf"
+                },
+                {
+                    "name": "p575.ttf"
+                },
+                {
+                    "name": "p576.ttf"
+                },
+                {
+                    "name": "p577.ttf"
+                },
+                {
+                    "name": "p578.ttf"
+                },
+                {
+                    "name": "p579.ttf"
+                },
+                {
+                    "name": "p580.ttf"
+                },
+                {
+                    "name": "p581.ttf"
+                },
+                {
+                    "name": "p582.ttf"
+                },
+                {
+                    "name": "p583.ttf"
+                },
+                {
+                    "name": "p584.ttf"
+                },
+                {
+                    "name": "p585.ttf"
+                },
+                {
+                    "name": "p586.ttf"
+                },
+                {
+                    "name": "p587.ttf"
+                },
+                {
+                    "name": "p588.ttf"
+                },
+                {
+                    "name": "p589.ttf"
+                },
+                {
+                    "name": "p590.ttf"
+                },
+                {
+                    "name": "p591.ttf"
+                },
+                {
+                    "name": "p592.ttf"
+                },
+                {
+                    "name": "p593.ttf"
+                },
+                {
+                    "name": "p594.ttf"
+                },
+                {
+                    "name": "p595.ttf"
+                },
+                {
+                    "name": "p596.ttf"
+                },
+                {
+                    "name": "p597.ttf"
+                },
+                {
+                    "name": "p598.ttf"
+                },
+                {
+                    "name": "p599.ttf"
+                },
+                {
+                    "name": "p6.ttf"
+                },
+                {
+                    "name": "p600.ttf"
+                },
+                {
+                    "name": "p601.ttf"
+                },
+                {
+                    "name": "p602.ttf"
+                },
+                {
+                    "name": "p603.ttf"
+                },
+                {
+                    "name": "p604.ttf"
+                },
+                {
+                    "name": "p7.ttf"
+                },
+                {
+                    "name": "p8.ttf"
+                },
+                {
+                    "name": "p9.ttf"
+                }
+            ]
+        },
+        {
+            "surah": "metadata/fonts/UthmanicHafs_V22.ttf",
+            "files": [
+                {
+                    "name": "UthmanicHafs_V22.ttf"
+                }
+            ]
+        },
+        {
+            "surah": "metadata/fonts/me_quran_volt_newmet.ttf",
+            "files": [
+                {
+                    "name": "me_quran_volt_newmet.ttf"
+                }
+            ]
+        },
+        {
+            "surah": "metadata/fonts/quran-common.ttf",
+            "files": [
+                {
+                    "name": "quran-common.ttf"
+                }
+            ]
+        },
+        {
+            "surah": "metadata/fonts/surah-name-v1.ttf",
+            "files": [
+                {
+                    "name": "surah-name-v1.ttf"
+                }
+            ]
+        },
+        {
+            "surah": "metadata/fonts/surah-name-v2.ttf",
+            "files": [
+                {
+                    "name": "surah-name-v2.ttf"
+                }
+            ]
+        },
+        {
+            "surah": "tafsir",
+            "files": [
+                {
+                    "name": "abridged-explanation-of-the-quran.json",
+                    "title": "English Al-Mukhtasar in Interpreting the Noble Quran",
+                    "author": "Markaz Tafsir",
+                    "language": "English",
+                    "slug": "en-al-mukhtasar"
+                },
+                {
+                    "name": "abu-bakr-jabir-al-jazairi.json",
+                    "title": "Aysar Al-Tafasir",
+                    "author": "Abu Bakr Jabir Al-Jazairi",
+                    "language": "Arabic",
+                    "slug": "ar-aysar-al-tafasir"
+                },
+                {
+                    "name": "adwa-al-bayan.json",
+                    "title": "Adwa' al-Bayan",
+                    "author": "Muhammad Al-Amin Al-Shinqiti",
+                    "language": "Arabic",
+                    "slug": "ar-adwa-al-bayan"
+                },
+                {
+                    "name": "al-bahr-al-muhit.json",
+                    "title": "Al-Bahr Al-Muhit",
+                    "author": "Abu Hayyan al-Gharnati",
+                    "language": "Arabic",
+                    "slug": "ar-al-bahr-al-muhit"
+                },
+                {
+                    "name": "al-basit.json",
+                    "title": "Al-Basit",
+                    "author": "Al-Wahidi",
+                    "language": "Arabic",
+                    "slug": "ar-al-basit"
+                },
+                {
+                    "name": "al-dur-al-masun-lil-samin-al-halabi.json",
+                    "title": "Al Dur Al Masun",
+                    "author": "Al-Samin Al-Halabi",
+                    "language": "Arabic",
+                    "slug": "ar-al-dur-al-masun"
+                },
+                {
+                    "name": "al-durr-al-manthur.json",
+                    "title": "Al-Durr Al-Manthur",
+                    "author": "Jalaluddin Al-Suyuti",
+                    "language": "Arabic",
+                    "slug": "ar-al-durr-al-manthur"
+                },
+                {
+                    "name": "al-i-rab-al-muyassar.json",
+                    "title": "Iraab Al-Muyassar",
+                    "author": "Various",
+                    "language": "Arabic",
+                    "slug": "ar-iraab-al-muyassar"
+                },
+                {
+                    "name": "al-jadwal-fi-i-rab-al-quran.json",
+                    "title": "Al Jadwal fi I'rab Al Quran",
+                    "author": "Mahmoud Safi",
+                    "language": "Arabic",
+                    "slug": "ar-al-jadwal"
+                },
+                {
+                    "name": "al-kashshaf-al-zamakhshari.json",
+                    "title": "Al-Kashshaf",
+                    "author": "Al-Zamakhshari",
+                    "language": "Arabic",
+                    "slug": "ar-al-kashshaf"
+                },
+                {
+                    "name": "al-lubab-fi-ulum-al-kitab.json",
+                    "title": "Al Lubab fi Ulum Al Kitab",
+                    "author": "Ibn Adil",
+                    "language": "Arabic",
+                    "slug": "ar-al-lubab"
+                },
+                {
+                    "name": "al-muharrar-al-wajiz-ibn-atiyyah.json",
+                    "title": "Al-Muharrar Al-Wajiz",
+                    "author": "Ibn Atiyyah",
+                    "language": "Arabic",
+                    "slug": "ar-al-muharrar-al-wajiz"
+                },
+                {
+                    "name": "al-muyassar-fi-al-gharib.json",
+                    "title": "Al-Muyassar fi Al-Gharib",
+                    "author": "Markaz Tafsir",
+                    "language": "Arabic",
+                    "slug": "ar-al-muyassar-fi-al-gharib"
+                },
+                {
+                    "name": "al-nashr-li-ibn-al-jazari.json",
+                    "title": "Al Nashr",
+                    "author": "Ibn Al-Jazari",
+                    "language": "Arabic",
+                    "slug": "ar-al-nashr"
+                },
+                {
+                    "name": "al-qira-at-al-mawsoo-ah-al-qur-aniyyah.json",
+                    "title": "Al Qira'at Al Mawsoo'ah Al Qur'aniyyah",
+                    "author": "Various",
+                    "language": "Arabic",
+                    "slug": "ar-al-qiraat-al-mawsooah"
+                },
+                {
+                    "name": "al-wajiz-wahidi.json",
+                    "title": "Al-Wajiz",
+                    "author": "Al-Wahidi",
+                    "language": "Arabic",
+                    "slug": "ar-al-wajiz-wahidi"
+                },
+                {
+                    "name": "alrab-al-quran-li-da-as.json",
+                    "title": "I'rab Al-Quran",
+                    "author": "Al-Da'as",
+                    "language": "Arabic",
+                    "slug": "ar-irab-al-quran-daas"
+                },
+                {
+                    "name": "ar-tafseer-al-qurtubi.json",
+                    "title": "Tafseer Al Qurtubi",
+                    "author": "Al-Qurtubi",
+                    "language": "Arabic",
+                    "slug": "ar-tafseer-al-qurtubi"
+                },
+                {
+                    "name": "ar-tafseer-al-saddi.json",
+                    "title": "Tafseer Al Saadi",
+                    "author": "Abdur Rahman as-Sa'di",
+                    "language": "Arabic",
+                    "slug": "ar-tafseer-al-saadi"
+                },
+                {
+                    "name": "ar-tafseer-tahrir-al-tanwir.json",
+                    "title": "Tafsir al-Tahrir wa al-Tanwir",
+                    "author": "Ibn Ashur",
+                    "language": "Arabic",
+                    "slug": "ar-tahrir-wa-tanwir"
+                },
+                {
+                    "name": "ar-tafsir-al-baghawi.json",
+                    "title": "Tafseer Al-Baghawi",
+                    "author": "Al-Baghawi",
+                    "language": "Arabic",
+                    "slug": "ar-tafsir-al-baghawi"
+                },
+                {
+                    "name": "ar-tafsir-al-tabari.json",
+                    "title": "Tafsir al-Tabari",
+                    "author": "Ibn Jarir al-Tabari",
+                    "language": "Arabic",
+                    "slug": "ar-tafsir-al-tabari"
+                },
+                {
+                    "name": "ar-tafsir-al-wasit.json",
+                    "title": "Tafsir Al Wasit",
+                    "author": "Muhammad Sayyid Tantawy",
+                    "language": "Arabic",
+                    "slug": "ar-tafsir-al-wasit"
+                },
+                {
+                    "name": "ar-tafsir-ibn-kathir.json",
+                    "title": "Tafsir Ibn Kathir",
+                    "author": "Ibn Kathir",
+                    "language": "Arabic",
+                    "slug": "ar-tafsir-ibn-kathir"
+                },
+                {
+                    "name": "ar-tafsir-muyassar.json",
+                    "title": "Tafsir Muyassar",
+                    "author": "King Fahd Quran Printing Complex",
+                    "language": "Arabic",
+                    "slug": "ar-tafsir-muyassar"
+                },
+                {
+                    "name": "arabic-al-mukhtasar-in-interpreting-the-noble-quran.json",
+                    "title": "Al-Mukhtasar fi Tafsir",
+                    "author": "Markaz Tafsir",
+                    "language": "Arabic",
+                    "slug": "ar-al-mukhtasar"
+                },
+                {
+                    "name": "assamese-mokhtasar.json",
+                    "title": "Assamese Abridged Explanation of the Quran",
+                    "author": "Markaz Tafsir",
+                    "language": "Assamese",
+                    "slug": "as-al-mukhtasar"
+                },
+                {
+                    "name": "asseraj-fi-bayan-gharib-alquran.json",
+                    "title": "Asseraj fi Bayan Gharib AlQuran",
+                    "author": "Al-Khudairi",
+                    "language": "Arabic",
+                    "slug": "ar-asseraj"
+                },
+                {
+                    "name": "azeri-mokhtasar.json",
+                    "title": "Azeri Abridged Explanation of the Quran",
+                    "author": "Markaz Tafsir",
+                    "language": "Azeri",
+                    "slug": "az-al-mukhtasar"
+                },
+                {
+                    "name": "bengali-mokhtasar.json",
+                    "title": "Bengali Abridged Explanation of the Quran",
+                    "author": "Markaz Tafsir",
+                    "language": "Bengali",
+                    "slug": "bn-al-mukhtasar"
+                },
+                {
+                    "name": "bn-tafseer-ibn-e-kaseer.json",
+                    "title": "Tafseer Ibn Kathir",
+                    "author": "Ibn Kathir",
+                    "language": "Bengali",
+                    "slug": "bn-ibn-kathir"
+                },
+                {
+                    "name": "bn-tafsir-abu-bakr-zakaria.json",
+                    "title": "Tafsir Abu Bakr Zakaria",
+                    "author": "Abu Bakr Zakaria",
+                    "language": "Bengali",
+                    "slug": "bn-abu-bakr-zakaria"
+                },
+                {
+                    "name": "bn-tafsir-ahsanul-bayaan.json",
+                    "title": "Tafsir Ahsanul Bayaan",
+                    "author": "Salahudin Yusuf",
+                    "language": "Bengali",
+                    "slug": "bn-ahsanul-bayaan"
+                },
+                {
+                    "name": "bosnian-mokhtasar.json",
+                    "title": "Bosnian Abridged Explanation of the Quran",
+                    "author": "Markaz Tafsir",
+                    "language": "Bosnian",
+                    "slug": "bs-al-mukhtasar"
+                },
+                {
+                    "name": "chinese-mokhtasar.json",
+                    "title": "Chinese Abridged Explanation of the Quran",
+                    "author": "Markaz Tafsir",
+                    "language": "Chinese",
+                    "slug": "zh-al-mukhtasar"
+                },
+                {
+                    "name": "en-tafisr-ibn-kathir.json",
+                    "title": "Tafsir Ibn Kathir",
+                    "author": "Ibn Kathir",
+                    "language": "English",
+                    "slug": "en-ibn-kathir"
+                },
+                {
+                    "name": "en-tafsir-maarif-ul-quran.json",
+                    "title": "Maarif-ul-Quran",
+                    "author": "Mufti Muhammad Shafi",
+                    "language": "English",
+                    "slug": "en-maarif-ul-quran"
+                },
+                {
+                    "name": "fath-al-bayan-li-al-qanuji.json",
+                    "title": "Fath Al-Bayan",
+                    "author": "Siddiq Hasan Khan",
+                    "language": "Arabic",
+                    "slug": "ar-fath-al-bayan"
+                },
+                {
+                    "name": "fath-al-qadir-al-shawkani.json",
+                    "title": "Fath Al-Qadir",
+                    "author": "Al-Shawkani",
+                    "language": "Arabic",
+                    "slug": "ar-fath-al-qadir"
+                },
+                {
+                    "name": "fr-tafsir-as-saadi.json",
+                    "title": "Tafsir As-Saadi",
+                    "author": "Abdur Rahman as-Sa'di",
+                    "language": "French",
+                    "slug": "fr-tafsir-saadi"
+                },
+                {
+                    "name": "french-mokhtasar.json",
+                    "title": "French Abridged Explanation of the Quran",
+                    "author": "Markaz Tafsir",
+                    "language": "French",
+                    "slug": "fr-al-mukhtasar"
+                },
+                {
+                    "name": "fulani-mokhtasar.json",
+                    "title": "Fulani Abridged Explanation of the Quran",
+                    "author": "Markaz Tafsir",
+                    "language": "Fulah",
+                    "slug": "ff-al-mukhtasar"
+                },
+                {
+                    "name": "hindi-mokhtasar.json",
+                    "title": "Hindi Abridged Explanation of the Quran",
+                    "author": "Markaz Tafsir",
+                    "language": "Hindi",
+                    "slug": "hi-al-mukhtasar"
+                },
+                {
+                    "name": "i-rab-al-quran-li-al-darwish.json",
+                    "title": "I'rab Al Quran",
+                    "author": "Muhyi al-Din al-Darwish",
+                    "language": "Arabic",
+                    "slug": "ar-irab-al-darwish"
+                },
+                {
+                    "name": "id-tafsir-as-saadi.json",
+                    "title": "Tafsir As-Saadi",
+                    "author": "Abdur Rahman as-Sa'di",
+                    "language": "Indonesian",
+                    "slug": "id-tafsir-saadi"
+                },
+                {
+                    "name": "in-tafsir-jalalayn.json",
+                    "title": "Tafsir Jalalayn",
+                    "author": "Al-Mahalli & As-Suyuti",
+                    "language": "Indonesian",
+                    "slug": "id-tafsir-jalalayn"
+                },
+                {
+                    "name": "indonesian-mokhtasar.json",
+                    "title": "Indonesian Al-Mukhtasar in Interpreting the Noble Quran",
+                    "author": "Markaz Tafsir",
+                    "language": "Indonesian",
+                    "slug": "id-al-mukhtasar"
+                },
+                {
+                    "name": "italian-mokhtasar.json",
+                    "title": "Italian Al-Mukhtasar in Interpreting the Noble Quran",
+                    "author": "Markaz Tafsir",
+                    "language": "Italian",
+                    "slug": "it-al-mukhtasar"
+                },
+                {
+                    "name": "jamia-al-bayan-aliji.json",
+                    "title": "Jami' al-Bayan fi Tafsir al-Quran",
+                    "author": "Al-Iji",
+                    "language": "Arabic",
+                    "slug": "ar-jamia-al-bayan-aliji"
+                },
+                {
+                    "name": "japanese-mokhtasar.json",
+                    "title": "Japanese Abridged Explanation of the Quran",
+                    "author": "Markaz Tafsir",
+                    "language": "Japanese",
+                    "slug": "ja-al-mukhtasar"
+                },
+                {
+                    "name": "khmer-mokhtasar.json",
+                    "title": "Khmer Abridged Explanation of the Quran",
+                    "author": "Markaz Tafsir",
+                    "language": "Central Khmer",
+                    "slug": "km-al-mukhtasar"
+                },
+                {
+                    "name": "kurd-tafsir-rebar.json",
+                    "title": "Rebar Kurdish Tafsir",
+                    "author": "Various",
+                    "language": "Kurdish",
+                    "slug": "ku-tafsir-rebar"
+                },
+                {
+                    "name": "kurdish-mokhtasar.json",
+                    "title": "Kurdish Al-Mukhtasar in Interpreting the Noble Quran",
+                    "author": "Markaz Tafsir",
+                    "language": "Kurdish",
+                    "slug": "ku-al-mukhtasar"
+                },
+                {
+                    "name": "kyrgyz-mokhtasar.json",
+                    "title": "Kyrgyz Abridged Explanation of the Quran",
+                    "author": "Markaz Tafsir",
+                    "language": "Kyrgyz",
+                    "slug": "ky-al-mukhtasar"
+                },
+                {
+                    "name": "mahasin-al-ta-wil-al-qasimi.json",
+                    "title": "Mahasin Al-Ta'wil",
+                    "author": "Al-Qasimi",
+                    "language": "Arabic",
+                    "slug": "ar-mahasin-al-tawil"
+                },
+                {
+                    "name": "malayalam-mokhtasar.json",
+                    "title": "Malayalam Abridged Explanation of the Quran",
+                    "author": "Markaz Tafsir",
+                    "language": "Malayalam",
+                    "slug": "ml-al-mukhtasar"
+                },
+                {
+                    "name": "mawsoo-at-al-tafsir-al-ma-thoor.json",
+                    "title": "Mawsoo'at Al-Tafsir Al-Ma'thoor",
+                    "author": "Various",
+                    "language": "Arabic",
+                    "slug": "ar-mawsooat-al-tafsir"
+                },
+                {
+                    "name": "nazam-al-durar-al-biqa-i.json",
+                    "title": "Nazm al-Durar",
+                    "author": "Al-Biqa'i",
+                    "language": "Arabic",
+                    "slug": "ar-nazm-al-durar"
+                },
+                {
+                    "name": "pashto-mokhtasar.json",
+                    "title": "Pashto Al-Mukhtasar in Interpreting the Noble Quran",
+                    "author": "Markaz Tafsir",
+                    "language": "Pashto",
+                    "slug": "ps-al-mukhtasar"
+                },
+                {
+                    "name": "persian-mokhtasar.json",
+                    "title": "Persian Al-Mukhtasar in Interpreting the Noble Quran",
+                    "author": "Markaz Tafsir",
+                    "language": "Persian",
+                    "slug": "fa-al-mukhtasar"
+                },
+                {
+                    "name": "ru-tafseer-al-saddi.json",
+                    "title": "Tafseer Al Saadi",
+                    "author": "Abdur Rahman as-Sa'di",
+                    "language": "Russian",
+                    "slug": "ru-tafseer-al-saadi"
+                },
+                {
+                    "name": "ru-tafsir-ibne-kahtir.json",
+                    "title": "Tafsir Ibn Kathir",
+                    "author": "Ibn Kathir",
+                    "language": "Russian",
+                    "slug": "ru-ibn-kathir"
+                },
+                {
+                    "name": "russian-mokhtasar.json",
+                    "title": "Russian Al-Mukhtasar in Interpreting the Noble Quran",
+                    "author": "Markaz Tafsir",
+                    "language": "Russian",
+                    "slug": "ru-al-mukhtasar"
+                },
+                {
+                    "name": "serbian-mokhtasar.json",
+                    "title": "Serbian Abridged Explanation of the Quran",
+                    "author": "Markaz Tafsir",
+                    "language": "Serbian",
+                    "slug": "sr-al-mukhtasar"
+                },
+                {
+                    "name": "sinhalese-mokhtasar.json",
+                    "title": "Sinhalese Al-Mukhtasar",
+                    "author": "Markaz Tafsir",
+                    "language": "Sinhalese",
+                    "slug": "si-al-mukhtasar"
+                },
+                {
+                    "name": "spanish-mokhtasar.json",
+                    "title": "Spanish Abridged Explanation of the Quran",
+                    "author": "Markaz Tafsir",
+                    "language": "Spanish",
+                    "slug": "es-al-mukhtasar"
+                },
+                {
+                    "name": "sq-saadi.json",
+                    "title": "Tafsir As-Saadi",
+                    "author": "Abdur Rahman as-Sa'di",
+                    "language": "Albanian",
+                    "slug": "sq-tafsir-saadi"
+                },
+                {
+                    "name": "tadabbur-wa-amal.json",
+                    "title": "Tadabbur wa 'Amal",
+                    "author": "Various",
+                    "language": "Arabic",
+                    "slug": "ar-tadabbur-wa-amal"
+                },
+                {
+                    "name": "tafisr-fathul-majid-bn.json",
+                    "title": "Tafsir Fathul Majid",
+                    "author": "Abdur Rahman Aal ash-Sheikh",
+                    "language": "Bengali",
+                    "slug": "bn-fathul-majid"
+                },
+                {
+                    "name": "tafseer-ibn-e-kaseer-urdu.json",
+                    "title": "Tafsir Ibn Kathir",
+                    "author": "Ibn Kathir",
+                    "language": "Urdu",
+                    "slug": "ur-ibn-kathir"
+                },
+                {
+                    "name": "tafsir-abi-al-su-ood.json",
+                    "title": "Tafsir Abi Al-Suaood",
+                    "author": "Abu al-Su'ud",
+                    "language": "Arabic",
+                    "slug": "ar-tafsir-abi-al-suood"
+                },
+                {
+                    "name": "tafsir-al-alusi.json",
+                    "title": "Tafsir Al-Alusi (Ruh al-Ma'ani)",
+                    "author": "Al-Alusi",
+                    "language": "Arabic",
+                    "slug": "ar-tafsir-al-alusi"
+                },
+                {
+                    "name": "tafsir-al-baydawi.json",
+                    "title": "Tafsir Al-Baydawi",
+                    "author": "Al-Baydawi",
+                    "language": "Arabic",
+                    "slug": "ar-tafsir-al-baydawi"
+                },
+                {
+                    "name": "tafsir-al-mawardi.json",
+                    "title": "Tafsir Al-Mawardi",
+                    "author": "Al-Mawardi",
+                    "language": "Arabic",
+                    "slug": "ar-tafsir-al-mawardi"
+                },
+                {
+                    "name": "tafsir-al-nasafi.json",
+                    "title": "Tafsir Al-Nasafi (Madarik al-Tanzil)",
+                    "author": "Al-Nasafi",
+                    "language": "Arabic",
+                    "slug": "ar-tafsir-al-nasafi"
+                },
+                {
+                    "name": "tafsir-al-razi.json",
+                    "title": "Tafsir Al-Razi (Mafatih al-Ghayb)",
+                    "author": "Fakhr al-Din al-Razi",
+                    "language": "Arabic",
+                    "slug": "ar-tafsir-al-razi"
+                },
+                {
+                    "name": "tafsir-al-sam-ani.json",
+                    "title": "Tafsir Al-Sam'ani",
+                    "author": "Al-Sam'ani",
+                    "language": "Arabic",
+                    "slug": "ar-tafsir-al-samani"
+                },
+                {
+                    "name": "tafsir-al-samarqandi.json",
+                    "title": "Tafsir Al-Samarqandi (Bahr al-Ulum)",
+                    "author": "Al-Samarqandi",
+                    "language": "Arabic",
+                    "slug": "ar-tafsir-al-samarqandi"
+                },
+                {
+                    "name": "tafsir-al-tha-alibi.json",
+                    "title": "Tafsir Al-Tha'alibi",
+                    "author": "Al-Tha'alibi",
+                    "language": "Arabic",
+                    "slug": "ar-tafsir-al-thaalibi"
+                },
+                {
+                    "name": "tafsir-al-tha-alibi_1.json",
+                    "title": "Tafsir Al-Tha'alibi (Vol 2)",
+                    "author": "Al-Tha'alibi",
+                    "language": "Arabic",
+                    "slug": "ar-tafsir-al-thaalibi-2"
+                },
+                {
+                    "name": "tafsir-as-saadi-russian.json",
+                    "title": "Tafsir As-Saadi",
+                    "author": "Abdur Rahman as-Sa'di",
+                    "language": "Russian",
+                    "slug": "ru-tafsir-saadi-alt"
+                },
+                {
+                    "name": "tafsir-as-saadi.json",
+                    "title": "Tafsir As-Saadi",
+                    "author": "Abdur Rahman as-Sa'di",
+                    "language": "Arabic",
+                    "slug": "ar-tafsir-saadi"
+                },
+                {
+                    "name": "tafsir-as-saadi_1.json",
+                    "title": "Tafsir As-Saadi (Part 1)",
+                    "author": "Abdur Rahman as-Sa'di",
+                    "language": "Arabic",
+                    "slug": "ar-tafsir-saadi-1"
+                },
+                {
+                    "name": "tafsir-as-saadi_2.json",
+                    "title": "Tafsir As-Saadi (Part 2)",
+                    "author": "Abdur Rahman as-Sa'di",
+                    "language": "Arabic",
+                    "slug": "ar-tafsir-saadi-2"
+                },
+                {
+                    "name": "tafsir-bayan-ul-quran.json",
+                    "title": "Tafsir Bayan ul Quran",
+                    "author": "Ashraf Ali Thanwi",
+                    "language": "Urdu",
+                    "slug": "ur-bayan-ul-quran"
+                },
+                {
+                    "name": "tafsir-fe-zalul-quran-syed-qatab.json",
+                    "title": "Fi Zilal al-Quran",
+                    "author": "Sayyid Qutb",
+                    "language": "Urdu",
+                    "slug": "ur-fi-zilal-al-quran"
+                },
+                {
+                    "name": "tafsir-ibn-abi-hatim.json",
+                    "title": "Tafsir Ibn Abi Hatim",
+                    "author": "Ibn Abi Hatim",
+                    "language": "Arabic",
+                    "slug": "ar-ibn-abi-hatim"
+                },
+                {
+                    "name": "tafsir-ibn-abi-zamanin.json",
+                    "title": "Tafsir Ibn Abi Zamanin",
+                    "author": "Ibn Abi Zamanin",
+                    "language": "Arabic",
+                    "slug": "ar-ibn-abi-zamanin"
+                },
+                {
+                    "name": "tafsir-ibn-al-jawzi.json",
+                    "title": "Tafsir Ibn Al-Jawzi (Zad al-Masir)",
+                    "author": "Ibn Al-Jawzi",
+                    "language": "Arabic",
+                    "slug": "ar-ibn-al-jawzi"
+                },
+                {
+                    "name": "tafsir-ibn-al-qayyim.json",
+                    "title": "Tafsir Ibn Al-Qayyim",
+                    "author": "Ibn Al-Qayyim",
+                    "language": "Arabic",
+                    "slug": "ar-ibn-al-qayyim"
+                },
+                {
+                    "name": "tafsir-ibn-juzay.json",
+                    "title": "Tafsir Ibn Juzay",
+                    "author": "Ibn Juzay",
+                    "language": "Arabic",
+                    "slug": "ar-ibn-juzay"
+                },
+                {
+                    "name": "tafsir-ibn-uthaymeen.json",
+                    "title": "Tafsir Ibn Uthaymeen",
+                    "author": "Ibn Uthaymeen",
+                    "language": "Arabic",
+                    "slug": "ar-ibn-uthaymeen"
+                },
+                {
+                    "name": "tafsir-jalalayn.json",
+                    "title": "Tafsir Jalalayn",
+                    "author": "Al-Mahalli & As-Suyuti",
+                    "language": "Arabic",
+                    "slug": "ar-tafsir-jalalayn"
+                },
+                {
+                    "name": "tafsir-makhi.json",
+                    "title": "Tafsir Makhi",
+                    "author": "Makki ibn Abi Talib",
+                    "language": "Arabic",
+                    "slug": "ar-tafsir-makhi"
+                },
+                {
+                    "name": "tagalog-mokhtasar.json",
+                    "title": "Filipino (Tagalog) Al-Mukhtasar",
+                    "author": "Markaz Tafsir",
+                    "language": "Tagalog",
+                    "slug": "tl-al-mukhtasar"
+                },
+                {
+                    "name": "tahlil-kalimat-al-qur-an.json",
+                    "title": "Tahlil Kalimat al-Qur'an",
+                    "author": "Various",
+                    "language": "Arabic",
+                    "slug": "ar-tahlil-kalimat"
+                },
+                {
+                    "name": "tamil-mokhtasar.json",
+                    "title": "Tamil Al-Mukhtasar",
+                    "author": "Markaz Tafsir",
+                    "language": "Tamil",
+                    "slug": "ta-al-mukhtasar"
+                },
+                {
+                    "name": "tazkiru-quran-ur.json",
+                    "title": "Tazkirul Quran",
+                    "author": "Maulana Wahiduddin Khan",
+                    "language": "Urdu",
+                    "slug": "ur-tazkirul-quran"
+                },
+                {
+                    "name": "tazkirul-quran-en.json",
+                    "title": "Tazkirul Quran",
+                    "author": "Maulana Wahiduddin Khan",
+                    "language": "English",
+                    "slug": "en-tazkirul-quran"
+                },
+                {
+                    "name": "telugu-mokhtasar.json",
+                    "title": "Telugu Al-Mukhtasar",
+                    "author": "Markaz Tafsir",
+                    "language": "Telugu",
+                    "slug": "te-al-mukhtasar"
+                },
+                {
+                    "name": "thai-mokhtasar.json",
+                    "title": "Thai Al-Mukhtasar",
+                    "author": "Markaz Tafsir",
+                    "language": "Thai",
+                    "slug": "th-al-mukhtasar"
+                },
+                {
+                    "name": "tr-tafsir-ibne-kathir.json",
+                    "title": "Tafsir Ibn Kathir",
+                    "author": "Ibn Kathir",
+                    "language": "Turkish",
+                    "slug": "tr-ibn-kathir"
+                },
+                {
+                    "name": "turkish-mokhtasar.json",
+                    "title": "Turkish Al-Mukhtasar",
+                    "author": "Markaz Tafsir",
+                    "language": "Turkish",
+                    "slug": "tr-al-mukhtasar"
+                },
+                {
+                    "name": "uyghur-mokhtasar.json",
+                    "title": "Uyghur Al-Mukhtasar",
+                    "author": "Markaz Tafsir",
+                    "language": "Uighur",
+                    "slug": "ug-al-mukhtasar"
+                },
+                {
+                    "name": "uzbek-mokhtasar.json",
+                    "title": "Uzbek Al-Mukhtasar",
+                    "author": "Markaz Tafsir",
+                    "language": "Uzbek",
+                    "slug": "uz-al-mukhtasar"
+                },
+                {
+                    "name": "vietnamese-mokhtasar.json",
+                    "title": "Vietnamese Al-Mukhtasar",
+                    "author": "Markaz Tafsir",
+                    "language": "Vietnamese",
+                    "slug": "vi-al-mukhtasar"
+                }
+            ]
+        },
+        {
+            "surah": "translations/ayat-by-ayat",
+            "files": [
+                {
+                    "name": "abdul-hameed-baqavi-simple.json",
+                    "title": "Abdul Hameed Baqavi",
+                    "author": "Abdul Hameed Baqavi",
+                    "language": "Tamil",
+                    "slug": "ta-baqavi"
+                },
+                {
+                    "name": "abdul-hamid-haidar-kanhi-muhammad-simple.json",
+                    "title": "Malay Translation (Abdul Hameed and Kunhi)",
+                    "author": "Abdul-Hamid Haidar & Kanhi Muhammad",
+                    "language": "Malayalam",
+                    "slug": "ml-abdul-hamid-haidar"
+                },
+                {
+                    "name": "abdul-hamid-silika-simple.json",
+                    "title": "Abdul Hamid Silika",
+                    "author": "Abdul Hamid Silika",
+                    "language": "Yau",
+                    "slug": "yuw-abdul-hamid-silika"
+                },
+                {
+                    "name": "abdullah-basamia-simple.json",
+                    "title": "Abdullah Basamia",
+                    "author": "Abdullah Basamia",
+                    "language": "Malay",
+                    "slug": "ms-abdullah-basamia"
+                },
+                {
+                    "name": "abdullah-hassan-yacoub-simple.json",
+                    "title": "Abdullah Hassan Yacoub",
+                    "author": "Abdullah Hassan Yacoub",
+                    "language": "Somali",
+                    "slug": "so-abdullah-hassan-yacoub"
+                },
+                {
+                    "name": "abu-reda-muhammad-ibn-ahmad-simple.json",
+                    "title": "Abu Reda Muhammad ibn Ahmad",
+                    "author": "Abu Reda Muhammad ibn Ahmad",
+                    "language": "German",
+                    "slug": "de-abu-reda"
+                },
+                {
+                    "name": "abubakar-mahmood-jummi-simple.json",
+                    "title": "Abubakar Mahmood Jummi",
+                    "author": "Abubakar Mahmood Jummi",
+                    "language": "Hausa",
+                    "slug": "ha-abubakar-jummi"
+                },
+                {
+                    "name": "african-development-foundation-simple.json",
+                    "title": "African Development Foundation",
+                    "author": "African Development Foundation",
+                    "language": "Ganda",
+                    "slug": "lg-african-development-foundation"
+                },
+                {
+                    "name": "ahl-al-hadith-central-society-of-nepal-simple.json",
+                    "title": "Ahl Al-Hadith Central Society of Nepal",
+                    "author": "Ahl Al-Hadith Central Society of Nepal",
+                    "language": "Nepali",
+                    "slug": "ne-ahl-al-hadith"
+                },
+                {
+                    "name": "al-hasan-efendi-simple.json",
+                    "title": "Hasan Efendi Nahi",
+                    "author": "Hasan Efendi Nahi",
+                    "language": "Albanian",
+                    "slug": "sq-hasan-efendi"
+                },
+                {
+                    "name": "alauddin-mansour-simple.json",
+                    "title": "Alauddin Mansour",
+                    "author": "Alauddin Mansour",
+                    "language": "Uzbek",
+                    "slug": "uz-alauddin-mansour"
+                },
+                {
+                    "name": "am-sadiq-simple.json",
+                    "title": "Sadiq and Sani",
+                    "author": "Sadiq and Sani",
+                    "language": "Amharic",
+                    "slug": "am-sadiq-sani"
+                },
+                {
+                    "name": "amharic-translation-zain-simple.json",
+                    "title": "Amharic Translation - Zain",
+                    "author": "Zain",
+                    "language": "Amharic",
+                    "slug": "am-zain"
+                },
+                {
+                    "name": "az-alikhan-simple.json",
+                    "title": "Alikhan Musayev",
+                    "author": "Alikhan Musayev",
+                    "language": "Azeri",
+                    "slug": "az-alikhan-musayev"
+                },
+                {
+                    "name": "az-unknown-simple.json",
+                    "title": "Azerbaijani",
+                    "author": "Unknown",
+                    "language": "Azeri",
+                    "slug": "az-unknown"
+                },
+                {
+                    "name": "baba-mamady-jani-simple.json",
+                    "title": "Baba Mamady Jani",
+                    "author": "Baba Mamady Jani",
+                    "language": "Bambara",
+                    "slug": "bm-baba-mamady-jani"
+                },
+                {
+                    "name": "bayan-ul-quran-simple.json",
+                    "title": "Bayan-ul-Quran",
+                    "author": "Various",
+                    "language": "Urdu",
+                    "slug": "ur-bayan-ul-quran"
+                },
+                {
+                    "name": "bayanul-furqan-koshur-quran-simple.json",
+                    "title": "Bayanul Furqan (Koshur Quran)",
+                    "author": "Various",
+                    "language": "Kashmiri",
+                    "slug": "ks-bayanul-furqan"
+                },
+                {
+                    "name": "besim-korkut-simple.json",
+                    "title": "Besim Korkut",
+                    "author": "Besim Korkut",
+                    "language": "Bosnian",
+                    "slug": "bs-besim-korkut"
+                },
+                {
+                    "name": "bisayan-translation-rowwad-center-simple.json",
+                    "title": "Bisayan Translation",
+                    "author": "Rowwad Center",
+                    "language": "Bisayan",
+                    "slug": "ceb-rowwad-center"
+                },
+                {
+                    "name": "bn-rawai-al-bayan-simple.json",
+                    "title": "Rawai Al-bayan",
+                    "author": "Various",
+                    "language": "Bengali",
+                    "slug": "bn-rawai-al-bayan"
+                },
+                {
+                    "name": "bn-sheikh-mujibur-rahman-simple.json",
+                    "title": "Sheikh Mujibur Rahman",
+                    "author": "Sheikh Mujibur Rahman",
+                    "language": "Bengali",
+                    "slug": "bn-sheikh-mujibur-rahman"
+                },
+                {
+                    "name": "bn-taisirul-quran-simple.json",
+                    "title": "Taisirul Quran",
+                    "author": "Various",
+                    "language": "Bengali",
+                    "slug": "bn-taisirul-quran"
+                },
+                {
+                    "name": "bridges-translation-simple.json",
+                    "title": "Bridges’ translation",
+                    "author": "Fadel Soliman",
+                    "language": "English",
+                    "slug": "en-bridges-translation"
+                },
+                {
+                    "name": "bs-unknown-simple.json",
+                    "title": "Bosnian Translation",
+                    "author": "Muhamed Mehanović",
+                    "language": "Bosnian",
+                    "slug": "bs-muhamed-mehanovic"
+                },
+                {
+                    "name": "bulgarian-translation-simple.json",
+                    "title": "Bulgarian Translation",
+                    "author": "Various",
+                    "language": "Bulgarian",
+                    "slug": "bg-translation"
+                },
+                {
+                    "name": "cambodian-muslim-community-development-simple.json",
+                    "title": "Cambodian Muslim Community Development",
+                    "author": "CMCD",
+                    "language": "Central Khmer",
+                    "slug": "km-cambodian-muslim-community"
+                },
+                {
+                    "name": "chechen-translation-simple.json",
+                    "title": "Chechen Translation",
+                    "author": "Magomed Magomedov",
+                    "language": "Chechen",
+                    "slug": "ce-magomed-magomedov"
+                },
+                {
+                    "name": "chewa-translation-simple.json",
+                    "title": "Chewa translation",
+                    "author": "Various",
+                    "language": "Chichewa",
+                    "slug": "ny-chewa-translation"
+                },
+                {
+                    "name": "chinese-suliman-simple.json",
+                    "title": "Chinese suliman",
+                    "author": "Suliman",
+                    "language": "Chinese",
+                    "slug": "zh-suliman"
+                },
+                {
+                    "name": "chinese-translation-basair-simple.json",
+                    "title": "Chinese Translation - Basair",
+                    "author": "Basair",
+                    "language": "Chinese",
+                    "slug": "zh-basair"
+                },
+                {
+                    "name": "croatian-translation-rwwad-simple.json",
+                    "title": "Croatian translation",
+                    "author": "Rwwad",
+                    "language": "Croatian",
+                    "slug": "hr-rwwad"
+                },
+                {
+                    "name": "cs-unknown-simple.json",
+                    "title": "Czech Translation",
+                    "author": "Various",
+                    "language": "Czech",
+                    "slug": "cs-czech-translation"
+                },
+                {
+                    "name": "dar-al-salam-center-simple.json",
+                    "title": "Dar Al-Salam Center (Tagalog)",
+                    "author": "Dar Al-Salam Center",
+                    "language": "Tagalog",
+                    "slug": "tl-dar-al-salam"
+                },
+                {
+                    "name": "dar-al-salam-center-simple_1.json",
+                    "title": "Dar Al-Salam Center (Serbian)",
+                    "author": "Dar Al-Salam Center",
+                    "language": "Serbian",
+                    "slug": "sr-dar-al-salam"
+                },
+                {
+                    "name": "dar-al-salam-center-simple_2.json",
+                    "title": "Dar Al-Salam Center (Bosnian)",
+                    "author": "Dar Al-Salam Center",
+                    "language": "Bosnian",
+                    "slug": "bs-dar-al-salam"
+                },
+                {
+                    "name": "dar-al-salam-center-simple_3.json",
+                    "title": "Dar Al-Salam Center (Hebrew)",
+                    "author": "Dar Al-Salam Center",
+                    "language": "Hebrew",
+                    "slug": "he-dar-al-salam"
+                },
+                {
+                    "name": "dar-al-salam-center-simple_4.json",
+                    "title": "Dar Al-Salam Center (Turkish)",
+                    "author": "Dar Al-Salam Center",
+                    "language": "Turkish",
+                    "slug": "tr-dar-al-salam"
+                },
+                {
+                    "name": "de-bubenheim-simple.json",
+                    "title": "Frank Bubenheim and Nadeem",
+                    "author": "Frank Bubenheim and Nadeem",
+                    "language": "German",
+                    "slug": "de-bubenheim-nadeem"
+                },
+                {
+                    "name": "dr-abdullah-muhammad-abu-bakr-and-sheikh-nasir-khamis-simple.json",
+                    "title": "Dr. Abdullah Muhammad Abu Bakr and Sheikh Nasir Khamis",
+                    "author": "Dr. Abdullah Muhammad Abu Bakr & Sheikh Nasir Khamis",
+                    "language": "Swahili",
+                    "slug": "sw-abdullah-muhammad"
+                },
+                {
+                    "name": "dr-abu-bakr-muhammad-zakaria-simple.json",
+                    "title": "Dr. Abu Bakr Muhammad Zakaria",
+                    "author": "Dr. Abu Bakr Muhammad Zakaria",
+                    "language": "Bengali",
+                    "slug": "bn-abu-bakr-zakaria"
+                },
+                {
+                    "name": "dr-mikhailo-yaqubovic-simple.json",
+                    "title": "Dr. Mikhailo Yaqubovic",
+                    "author": "Dr. Mikhailo Yaqubovic",
+                    "language": "Ukrainian",
+                    "slug": "uk-mikhailo-yaqubovic"
+                },
+                {
+                    "name": "dr-t-b-irving-simple.json",
+                    "title": "Dr. T. B. Irving",
+                    "author": "Dr. T. B. Irving",
+                    "language": "English",
+                    "slug": "en-irving"
+                },
+                {
+                    "name": "dr-waleed-bleyhesh-omary-simple.json",
+                    "title": "Dr. Waleed Bleyhesh Omary",
+                    "author": "Dr. Waleed Bleyhesh Omary",
+                    "language": "English",
+                    "slug": "en-waleed-omary"
+                },
+                {
+                    "name": "dutch-islamic-center-simple.json",
+                    "title": "Dutch Islamic Center",
+                    "author": "Dutch Islamic Center",
+                    "language": "Dutch",
+                    "slug": "nl-islamic-center"
+                },
+                {
+                    "name": "dv-unknow-simple.json",
+                    "title": "Office of the president of Maldives",
+                    "author": "Office of the president of Maldives",
+                    "language": "Divehi",
+                    "slug": "dv-office-president"
+                },
+                {
+                    "name": "en-al-maududi-simple.json",
+                    "title": "Tafheem-ul-Quran",
+                    "author": "Abul Ala Maududi",
+                    "language": "English",
+                    "slug": "en-maududi"
+                },
+                {
+                    "name": "en-arberry-simple.json",
+                    "title": "A. J. Arberry",
+                    "author": "A. J. Arberry",
+                    "language": "English",
+                    "slug": "en-arberry"
+                },
+                {
+                    "name": "en-asad-simple.json",
+                    "title": "Muhammad Asad",
+                    "author": "Muhammad Asad",
+                    "language": "English",
+                    "slug": "en-asad"
+                },
+                {
+                    "name": "en-daryabadi-simple.json",
+                    "title": "Abdul Majid Daryabadi",
+                    "author": "Abdul Majid Daryabadi",
+                    "language": "English",
+                    "slug": "en-daryabadi"
+                },
+                {
+                    "name": "en-ghali-simple.json",
+                    "title": "Dr. Ghali",
+                    "author": "Dr. Ghali",
+                    "language": "English",
+                    "slug": "en-ghali"
+                },
+                {
+                    "name": "en-haleem-simple.json",
+                    "title": "Abdul Haleem",
+                    "author": "Abdul Haleem",
+                    "language": "English",
+                    "slug": "en-haleem"
+                },
+                {
+                    "name": "en-maarif-ul-quran-simple.json",
+                    "title": "Maarif-ul-Quran",
+                    "author": "Mufti Muhammad Shafi",
+                    "language": "English",
+                    "slug": "en-maarif-ul-quran"
+                },
+                {
+                    "name": "en-maulana-wahiduddin-khan-simple.json",
+                    "title": "Maulana Wahiduddin Khan",
+                    "author": "Maulana Wahiduddin Khan",
+                    "language": "English",
+                    "slug": "en-wahiduddin-khan"
+                },
+                {
+                    "name": "en-muhsin-khan-simple.json",
+                    "title": "Muhsin Khan",
+                    "author": "Muhsin Khan & Al-Hilali",
+                    "language": "English",
+                    "slug": "en-muhsin-khan"
+                },
+                {
+                    "name": "en-qaribullah-simple.json",
+                    "title": "Professor Shaykh Hasan Al-Fatih Qaribullah",
+                    "author": "Shaykh Hasan Al-Fatih Qaribullah",
+                    "language": "English",
+                    "slug": "en-qaribullah"
+                },
+                {
+                    "name": "en-sahih-international-simple.json",
+                    "title": "Saheeh International",
+                    "author": "Saheeh International",
+                    "language": "English",
+                    "slug": "en-sahih-international"
+                },
+                {
+                    "name": "en-sarwar-simple.json",
+                    "title": "Muhammad Sarwar",
+                    "author": "Muhammad Sarwar",
+                    "language": "English",
+                    "slug": "en-sarwar"
+                },
+                {
+                    "name": "en-shakir-simple.json",
+                    "title": "Shakir",
+                    "author": "Shakir",
+                    "language": "English",
+                    "slug": "en-shakir"
+                },
+                {
+                    "name": "en-taqi-usmani-simple.json",
+                    "title": "Mufti Taqi Usmani",
+                    "author": "Mufti Taqi Usmani",
+                    "language": "English",
+                    "slug": "en-taqi-usmani"
+                },
+                {
+                    "name": "es-isa-garcia-simple.json",
+                    "title": "Sheikh Isa Garcia",
+                    "author": "Sheikh Isa Garcia",
+                    "language": "Spanish",
+                    "slug": "es-isa-garcia"
+                },
+                {
+                    "name": "fathul-majid-bn-simple.json",
+                    "title": "Fathul Majid",
+                    "author": "Various",
+                    "language": "Bengali",
+                    "slug": "bn-fathul-majid"
+                },
+                {
+                    "name": "fi-unknown-simple.json",
+                    "title": "Finnish Translation",
+                    "author": "Various",
+                    "language": "Finnish",
+                    "slug": "fi-translation"
+                },
+                {
+                    "name": "filipino-iranionian-translation-simple.json",
+                    "title": "Filipino Iranionian translation",
+                    "author": "Various",
+                    "language": "Tagalog",
+                    "slug": "tl-filipino-iranionian"
+                },
+                {
+                    "name": "fr-hussein-taji-simple.json",
+                    "title": "Hussein Taji Kal Dari",
+                    "author": "Hussein Taji Kal Dari",
+                    "language": "Persian",
+                    "slug": "fa-hussein-taji"
+                },
+                {
+                    "name": "fr-rashid-maash-simple.json",
+                    "title": "Rashid Maash",
+                    "author": "Rashid Maash",
+                    "language": "French",
+                    "slug": "fr-rashid-maash"
+                },
+                {
+                    "name": "georgian-translation-simple.json",
+                    "title": "Georgian Translation",
+                    "author": "Various",
+                    "language": "Georgian",
+                    "slug": "ka-translation"
+                },
+                {
+                    "name": "german-translation-rowwad-translation-center-simple.json",
+                    "title": "German Translation",
+                    "author": "Rowwad Translation Center",
+                    "language": "German",
+                    "slug": "de-rowwad"
+                },
+                {
+                    "name": "ghali-apapur-apaghuna-simple.json",
+                    "title": "Ghali Apapur Apaghuna",
+                    "author": "Ghali Apapur Apaghuna",
+                    "language": "Oromo",
+                    "slug": "om-ghali-apapur"
+                },
+                {
+                    "name": "greek-translation-simple.json",
+                    "title": "Greek translation",
+                    "author": "Various",
+                    "language": "Greek",
+                    "slug": "el-translation"
+                },
+                {
+                    "name": "hamed-choi-simple.json",
+                    "title": "Hamed Choi",
+                    "author": "Hamed Choi",
+                    "language": "Korean",
+                    "slug": "ko-hamed-choi"
+                },
+                {
+                    "name": "hamza-roberto-piccardo-simple.json",
+                    "title": "Hamza Roberto Piccardo",
+                    "author": "Hamza Roberto Piccardo",
+                    "language": "Italian",
+                    "slug": "it-hamza-piccardo"
+                },
+                {
+                    "name": "hasan-abdul-karim-simple.json",
+                    "title": "Hasan Abdul-Karim",
+                    "author": "Hasan Abdul-Karim",
+                    "language": "Vietnamese",
+                    "slug": "vi-hasan-abdul-karim"
+                },
+                {
+                    "name": "helmi-nasr-simple.json",
+                    "title": "Helmi Nasr",
+                    "author": "Helmi Nasr",
+                    "language": "Portuguese",
+                    "slug": "pt-helmi-nasr"
+                },
+                {
+                    "name": "ikirundi-gehiti-simple.json",
+                    "title": "Ikirundi gehiti",
+                    "author": "Various",
+                    "language": "Kirundi",
+                    "slug": "rn-ikirundi-gehiti"
+                },
+                {
+                    "name": "islamhouse-com-simple.json",
+                    "title": "IslamHouse.com",
+                    "author": "IslamHouse.com",
+                    "language": "Persian",
+                    "slug": "fa-islamhouse"
+                },
+                {
+                    "name": "islamic-and-cultural-league-simple.json",
+                    "title": "Islamic and Cultural League",
+                    "author": "Islamic and Cultural League",
+                    "language": "Romanian",
+                    "slug": "ro-islamic-league"
+                },
+                {
+                    "name": "ja-ryoichi-mita-simple.json",
+                    "title": "Ryoichi Mita",
+                    "author": "Ryoichi Mita",
+                    "language": "Japanese",
+                    "slug": "ja-ryoichi-mita"
+                },
+                {
+                    "name": "kannada-quran-simple.json",
+                    "title": "Kannada Translation",
+                    "author": "Various",
+                    "language": "Kannada",
+                    "slug": "kn-translation"
+                },
+                {
+                    "name": "kannada-translation-bashir-missouri-simple.json",
+                    "title": "Kannada translation - Bashir Missouri",
+                    "author": "Bashir Missouri",
+                    "language": "Kannada",
+                    "slug": "kn-bashir-missouri"
+                },
+                {
+                    "name": "khalifa-altay-simple.json",
+                    "title": "Khalifa Altay",
+                    "author": "Khalifa Altay",
+                    "language": "Kazakh",
+                    "slug": "kk-khalifa-altay"
+                },
+                {
+                    "name": "khawaja-mirof-khawaja-mir-simple.json",
+                    "title": "Khawaja Mirof & Khawaja Mir",
+                    "author": "Khawaja Mirof & Khawaja Mir",
+                    "language": "Tajik",
+                    "slug": "tg-khawaja-mirof"
+                },
+                {
+                    "name": "khmer-translation-rwwad-translation-center-simple.json",
+                    "title": "Khmer translation",
+                    "author": "Rwwad translation center",
+                    "language": "Central Khmer",
+                    "slug": "km-rwwad"
+                },
+                {
+                    "name": "king-fahad-quran-complex-simple.json",
+                    "title": "King Fahad Quran Complex",
+                    "author": "King Fahad Quran Complex",
+                    "language": "Indonesian",
+                    "slug": "id-king-fahad"
+                },
+                {
+                    "name": "ko-unknown-simple.json",
+                    "title": "Korean Translation",
+                    "author": "Unknown",
+                    "language": "Korean",
+                    "slug": "ko-unknown"
+                },
+                {
+                    "name": "korean-translation-rowwad-translation-center-simple.json",
+                    "title": "Korean Translation",
+                    "author": "Rowwad Translation Center",
+                    "language": "Korean",
+                    "slug": "ko-rowwad"
+                },
+                {
+                    "name": "ku-burhan-muhammad-simple.json",
+                    "title": "Burhan Muhammad-Amin",
+                    "author": "Burhan Muhammad-Amin",
+                    "language": "Kurdish",
+                    "slug": "ku-burhan-muhammad"
+                },
+                {
+                    "name": "kurdish-kurmanji-translation-simple.json",
+                    "title": "Kurdish Kurmanji Translation",
+                    "author": "Various",
+                    "language": "Kurdish",
+                    "slug": "ku-kurmanji"
+                },
+                {
+                    "name": "kurdish-translation-salahuddin-simple.json",
+                    "title": "Kurdish Translation - Salahuddin",
+                    "author": "Salahuddin",
+                    "language": "Kurdish",
+                    "slug": "ku-salahuddin"
+                },
+                {
+                    "name": "kyrgyz-hakimov-simple.json",
+                    "title": "Kyrgyz hakimov",
+                    "author": "Hakimov",
+                    "language": "Kyrgyz",
+                    "slug": "ky-hakimov"
+                },
+                {
+                    "name": "lingala-translation-simple.json",
+                    "title": "Lingala translation",
+                    "author": "Various",
+                    "language": "Lingala",
+                    "slug": "ln-translation"
+                },
+                {
+                    "name": "lithuanian-translation-simple.json",
+                    "title": "Lithuanian Translation",
+                    "author": "Various",
+                    "language": "Lithuanian",
+                    "slug": "lt-translation"
+                },
+                {
+                    "name": "luhya-translation-simple.json",
+                    "title": "Luhya translation",
+                    "author": "Various",
+                    "language": "Luhya",
+                    "slug": "luy-translation"
+                },
+                {
+                    "name": "macedonian-scholars-simple.json",
+                    "title": "Macedonian scholars",
+                    "author": "Various",
+                    "language": "Macedonian",
+                    "slug": "mk-scholars"
+                },
+                {
+                    "name": "maguindanao-rwwad-simple.json",
+                    "title": "Maguindanao",
+                    "author": "Rwwad",
+                    "language": "Maguindanao",
+                    "slug": "mdh-rwwad"
+                },
+                {
+                    "name": "malagasy-translation-rowad-simple.json",
+                    "title": "Malagasy translation",
+                    "author": "Rowad",
+                    "language": "Malagasy",
+                    "slug": "mg-rowad"
+                },
+                {
+                    "name": "maududi-roman-urdu-simple.json",
+                    "title": "Abul Ala Maududi (Roman Urdu)",
+                    "author": "Abul Ala Maududi",
+                    "language": "Urdu",
+                    "slug": "ur-maududi-roman"
+                },
+                {
+                    "name": "maulana-abder-rahim-ibn-muhammad-simple.json",
+                    "title": "Maulana Abder-Rahim ibn Muhammad",
+                    "author": "Maulana Abder-Rahim ibn Muhammad",
+                    "language": "Telugu",
+                    "slug": "te-maulana-abder-rahim"
+                },
+                {
+                    "name": "maulana-azizul-haque-al-umari-simple.json",
+                    "title": "Maulana Azizul Haque al-Umari",
+                    "author": "Maulana Azizul Haque al-Umari",
+                    "language": "Hindi",
+                    "slug": "hi-azizul-haque"
+                },
+                {
+                    "name": "maulana-wahid-uddin-khan-urdu-simple.json",
+                    "title": "Maulana Wahiduddin Khan",
+                    "author": "Maulana Wahiduddin Khan",
+                    "language": "Urdu",
+                    "slug": "ur-wahiduddin-khan"
+                },
+                {
+                    "name": "mawlawi-muhammad-anwar-badkhashani-simple.json",
+                    "title": "Mawlawi Muhammad Anwar Badkhashani",
+                    "author": "Mawlawi Muhammad Anwar Badkhashani",
+                    "language": "Dari",
+                    "slug": "prs-mawlawi-anwar"
+                },
+                {
+                    "name": "ml-karakunnu-simple.json",
+                    "title": "Muhammad Karakunnu and Vanidas Elayavoor",
+                    "author": "Muhammad Karakunnu & Vanidas Elayavoor",
+                    "language": "Malayalam",
+                    "slug": "ml-karakunnu"
+                },
+                {
+                    "name": "ml-shaikh-aboobakr-ibrahim-ali-simple.json",
+                    "title": "Abu Bakr Ibrahim Ali (Bakurube)",
+                    "author": "Abu Bakr Ibrahim Ali",
+                    "language": "Divehi",
+                    "slug": "dv-abu-bakr-ibrahim"
+                },
+                {
+                    "name": "montada-islamic-foundation-simple.json",
+                    "title": "Montada Islamic Foundation (French)",
+                    "author": "Montada Islamic Foundation",
+                    "language": "French",
+                    "slug": "fr-montada"
+                },
+                {
+                    "name": "montada-islamic-foundation-simple_1.json",
+                    "title": "Montada Islamic Foundation (Spanish)",
+                    "author": "Montada Islamic Foundation",
+                    "language": "Spanish",
+                    "slug": "es-montada"
+                },
+                {
+                    "name": "moore-rwwad-simple.json",
+                    "title": "Moore rwwad",
+                    "author": "Rwwad",
+                    "language": "Moore",
+                    "slug": "mos-rwwad"
+                },
+                {
+                    "name": "mrn-unknown-simple.json",
+                    "title": "Maranao",
+                    "author": "Various",
+                    "language": "Maranao",
+                    "slug": "mrn-unknown"
+                },
+                {
+                    "name": "muhammad-baba-gutubu-simple.json",
+                    "title": "Muhammad Baba Gutubu",
+                    "author": "Muhammad Baba Gutubu",
+                    "language": "Hausa",
+                    "slug": "ha-baba-gutubu"
+                },
+                {
+                    "name": "muhammad-hamza-battur-simple.json",
+                    "title": "Muhammad Hamza Battur",
+                    "author": "Muhammad Hamza Battur",
+                    "language": "Arabic",
+                    "slug": "ar-hamza-battur"
+                },
+                {
+                    "name": "muhammad-makin-simple.json",
+                    "title": "Muhammad Makin",
+                    "author": "Muhammad Makin",
+                    "language": "Chinese",
+                    "slug": "zh-muhammad-makin"
+                },
+                {
+                    "name": "muhammad-saleh-bamoki-simple.json",
+                    "title": "Muhammad Saleh Bamoki",
+                    "author": "Muhammad Saleh Bamoki",
+                    "language": "Kurdish",
+                    "slug": "ku-saleh-bamoki"
+                },
+                {
+                    "name": "muhammad-shafi-i-ansari-simple.json",
+                    "title": "Muhammad Shafi’i Ansari",
+                    "author": "Muhammad Shafi’i Ansari",
+                    "language": "Marathi",
+                    "slug": "mr-shafii-ansari"
+                },
+                {
+                    "name": "muhammad-sodik-muhammad-yusuf-simple.json",
+                    "title": "Muhammad Sodiq Muhammad Yusuf",
+                    "author": "Muhammad Sodiq Muhammad Yusuf",
+                    "language": "Uzbek",
+                    "slug": "uz-sodiq-yusuf"
+                },
+                {
+                    "name": "muslim-shahin-simple.json",
+                    "title": "Muslim Shahin",
+                    "author": "Muslim Shahin",
+                    "language": "Turkish",
+                    "slug": "tr-muslim-shahin"
+                },
+                {
+                    "name": "nl-abdalsalaam-simple.json",
+                    "title": "Malak Faris Abdalsalaam",
+                    "author": "Malak Faris Abdalsalaam",
+                    "language": "Dutch",
+                    "slug": "nl-abdalsalaam"
+                },
+                {
+                    "name": "nl-sofian-s-siregar-simple.json",
+                    "title": "Sofian S. Siregar",
+                    "author": "Sofian S. Siregar",
+                    "language": "Dutch",
+                    "slug": "nl-sofian-siregar"
+                },
+                {
+                    "name": "no-unknown-simple.json",
+                    "title": "Norwegian Translation",
+                    "author": "Various",
+                    "language": "Norwegian",
+                    "slug": "no-translation"
+                },
+                {
+                    "name": "noor-international-center-simple.json",
+                    "title": "Noor International Center",
+                    "author": "Noor International Center",
+                    "language": "Spanish",
+                    "slug": "es-noor-international"
+                },
+                {
+                    "name": "othman-al-sharif-simple.json",
+                    "title": "Othman al-Sharif",
+                    "author": "Othman al-Sharif",
+                    "language": "Italian",
+                    "slug": "it-othman-sharif"
+                },
+                {
+                    "name": "pashto-sarfaraz-simple.json",
+                    "title": "Pashto - Sarfaraz",
+                    "author": "Sarfaraz",
+                    "language": "Pashto",
+                    "slug": "ps-sarfaraz"
+                },
+                {
+                    "name": "pashto-translation-rowwad-translation-center-simple.json",
+                    "title": "Pashto Translation",
+                    "author": "Rowwad Translation Center",
+                    "language": "Pashto",
+                    "slug": "ps-rowwad"
+                },
+                {
+                    "name": "pioneers-of-translation-center-simple.json",
+                    "title": "Pioneers of Translation Center",
+                    "author": "Pioneers of Translation Center",
+                    "language": "Tajik",
+                    "slug": "tg-pioneers"
+                },
+                {
+                    "name": "pl-jozef-bielawski-simple.json",
+                    "title": "Józef Bielawski",
+                    "author": "Józef Bielawski",
+                    "language": "Polish",
+                    "slug": "pl-jozef-bielawski"
+                },
+                {
+                    "name": "punjabi-arif-simple.json",
+                    "title": "Punjabi arif",
+                    "author": "Arif",
+                    "language": "Punjabi",
+                    "slug": "pa-arif"
+                },
+                {
+                    "name": "qoran-imqaddes-simple.json",
+                    "title": "Il-Qoran Imqaddes",
+                    "author": "Various",
+                    "language": "Maltese",
+                    "slug": "mt-imqaddes"
+                },
+                {
+                    "name": "quran-al-ahmeti-simple.json",
+                    "title": "Albanian Translation",
+                    "author": "Sherif Ahmeti",
+                    "language": "Albanian",
+                    "slug": "sq-sherif-ahmeti"
+                },
+                {
+                    "name": "quran-en-pickthall-simple.json",
+                    "title": "English Translation (Pickthall)",
+                    "author": "Marmaduke Pickthall",
+                    "language": "English",
+                    "slug": "en-pickthall"
+                },
+                {
+                    "name": "quran-en-yusufali-simple.json",
+                    "title": "Abdullah Yusuf Ali",
+                    "author": "Abdullah Yusuf Ali",
+                    "language": "English",
+                    "slug": "en-yusuf-ali"
+                },
+                {
+                    "name": "quran-es-cortes-simple.json",
+                    "title": "Spanish Translation (Cortes)",
+                    "author": "Julio Cortes",
+                    "language": "Spanish",
+                    "slug": "es-cortes"
+                },
+                {
+                    "name": "quran-fr-hamidullah-simple.json",
+                    "title": "Muhammad Hamidullah",
+                    "author": "Muhammad Hamidullah",
+                    "language": "French",
+                    "slug": "fr-hamidullah"
+                },
+                {
+                    "name": "quran-ha-abubakar-simple.json",
+                    "title": "Hausa Translation (Abubakar Gumi)",
+                    "author": "Abubakar Gumi",
+                    "language": "Hausa",
+                    "slug": "ha-abubakar-gumi"
+                },
+                {
+                    "name": "quran-id-simple.json",
+                    "title": "Indonesian Islamic Affairs Ministry",
+                    "author": "Ministry of Religious Affairs",
+                    "language": "Indonesian",
+                    "slug": "id-ministry"
+                },
+                {
+                    "name": "quran-ml-abdul-hameed-simple.json",
+                    "title": "Malay Translation (Abdul Hameed and Kunhi)",
+                    "author": "Abdul Hameed & Kunhi",
+                    "language": "Malayalam",
+                    "slug": "ml-abdul-hameed"
+                },
+                {
+                    "name": "quran-pt-samir-simple.json",
+                    "title": "Portuguese Translation (Samir)",
+                    "author": "Samir El-Hayek",
+                    "language": "Portuguese",
+                    "slug": "pt-samir"
+                },
+                {
+                    "name": "quran-ru-kuliev-simple.json",
+                    "title": "Russian Translation (Elmir Kuliev)",
+                    "author": "Elmir Kuliev",
+                    "language": "Russian",
+                    "slug": "ru-kuliev"
+                },
+                {
+                    "name": "quran-th-quran-complex-simple.json",
+                    "title": "Thai Translation",
+                    "author": "King Fahad Quran Complex",
+                    "language": "Thai",
+                    "slug": "th-quran-complex"
+                },
+                {
+                    "name": "quran-tr-diyanet-simple.json",
+                    "title": "Turkish Translation (Diyanet)",
+                    "author": "Diyanet",
+                    "language": "Turkish",
+                    "slug": "tr-diyanet"
+                },
+                {
+                    "name": "quran-uz-sodik-simple.json",
+                    "title": "Muhammad Sodiq Muhammad Yusuf (Latin)",
+                    "author": "Muhammad Sodiq Muhammad Yusuf",
+                    "language": "Uzbek",
+                    "slug": "uz-sodiq-yusuf-latin"
+                },
+                {
+                    "name": "quran-zh-ma-jain-simple.json",
+                    "title": "Chinese Translation (Simplified) - Ma Jain",
+                    "author": "Ma Jain",
+                    "language": "Chinese",
+                    "slug": "zh-ma-jain"
+                },
+                {
+                    "name": "rabila-al-umry-simple.json",
+                    "title": "Rabila Al-Umry",
+                    "author": "Rabila Al-Umry",
+                    "language": "Gujarati",
+                    "slug": "gu-rabila-al-umry"
+                },
+                {
+                    "name": "ramdane-at-mansour-simple.json",
+                    "title": "Ramdane At Mansour",
+                    "author": "Ramdane At Mansour",
+                    "language": "Amazigh",
+                    "slug": "tzm-ramdane-at-mansour"
+                },
+                {
+                    "name": "ro-grigore-simple.json",
+                    "title": "Grigore",
+                    "author": "George Grigore",
+                    "language": "Romanian",
+                    "slug": "ro-grigore"
+                },
+                {
+                    "name": "romanian-translation-simple.json",
+                    "title": "Romanian Translation",
+                    "author": "Various",
+                    "language": "Romanian",
+                    "slug": "ro-translation"
+                },
+                {
+                    "name": "rowad-translation-center-simple.json",
+                    "title": "Ruwwad Center (Sinhala)",
+                    "author": "Ruwwad Center",
+                    "language": "Sinhala",
+                    "slug": "si-ruwwad"
+                },
+                {
+                    "name": "rowad-translation-center-simple_1.json",
+                    "title": "Ruwwad Center (Vietnamese)",
+                    "author": "Ruwwad Center",
+                    "language": "Vietnamese",
+                    "slug": "vi-ruwwad"
+                },
+                {
+                    "name": "ru-abu-adel-simple.json",
+                    "title": "Abu Adel",
+                    "author": "Abu Adel",
+                    "language": "Russian",
+                    "slug": "ru-abu-adel"
+                },
+                {
+                    "name": "ru-gordy-simple.json",
+                    "title": "Gordy Semyonovich Sablukov",
+                    "author": "Gordy Semyonovich Sablukov",
+                    "language": "Russian",
+                    "slug": "ru-gordy-sablukov"
+                },
+                {
+                    "name": "ru-ministry-of-awqaf-simple.json",
+                    "title": "Ministry of Awqaf, Egypt",
+                    "author": "Ministry of Awqaf",
+                    "language": "Russian",
+                    "slug": "ru-ministry-awqaf"
+                },
+                {
+                    "name": "ru-nuri-simple.json",
+                    "title": "Magomed-Nuri Osmanovich Osmanov",
+                    "author": "Magomed-Nuri Osmanovich Osmanov",
+                    "language": "Russian",
+                    "slug": "ru-nuri-osmanov"
+                },
+                {
+                    "name": "russian-translation-aboadel-simple.json",
+                    "title": "Russian translation - Aboadel",
+                    "author": "Aboadel",
+                    "language": "Russian",
+                    "slug": "ru-aboadel-translation"
+                },
+                {
+                    "name": "ruwwad-center-simple.json",
+                    "title": "Ruwwad Center (English)",
+                    "author": "Ruwwad Center",
+                    "language": "English",
+                    "slug": "en-ruwwad"
+                },
+                {
+                    "name": "saeed-sato-simple.json",
+                    "title": "Saeed Sato",
+                    "author": "Saeed Sato",
+                    "language": "Japanese",
+                    "slug": "ja-saeed-sato"
+                },
+                {
+                    "name": "shaban-britch-simple.json",
+                    "title": "Shaban Britch",
+                    "author": "Shaban Britch",
+                    "language": "Turkish",
+                    "slug": "tr-shaban-britch"
+                },
+                {
+                    "name": "shaikh-mahmud-abdulkader-hamza-simple.json",
+                    "title": "Shaikh Mahmud Abdulkader Hamza",
+                    "author": "Shaikh Mahmud Abdulkader Hamza",
+                    "language": "Unknown",
+                    "slug": "mahmud-abdulkader-hamza"
+                },
+                {
+                    "name": "shaykh-abu-rahimah-mikael-aykyuni-simple.json",
+                    "title": "Shaykh Abu Rahimah Mikael Aykyuni",
+                    "author": "Shaykh Abu Rahimah Mikael Aykyuni",
+                    "language": "Yoruba",
+                    "slug": "yo-mikael-aykyuni"
+                },
+                {
+                    "name": "shaykh-rafeequl-islam-habibur-rahman-simple.json",
+                    "title": "Shaykh Rafeequl Islam Habibur-Rahman",
+                    "author": "Shaykh Rafeequl Islam Habibur-Rahman",
+                    "language": "Assamese",
+                    "slug": "as-habibur-rahman"
+                },
+                {
+                    "name": "sheikh-omar-sharif-bin-abdul-salam-simple.json",
+                    "title": "Sheikh Omar Sharif bin Abdul Salam",
+                    "author": "Sheikh Omar Sharif bin Abdul Salam",
+                    "language": "Tamil",
+                    "slug": "ta-omar-sharif"
+                },
+                {
+                    "name": "so-mahmud-abduh-simple.json",
+                    "title": "Mahmud Muhammad Abduh",
+                    "author": "Mahmud Muhammad Abduh",
+                    "language": "Somali",
+                    "slug": "so-mahmud-abduh"
+                },
+                {
+                    "name": "society-of-institutes-and-universities-simple.json",
+                    "title": "Society of Institutes and Universities",
+                    "author": "Society of Institutes and Universities",
+                    "language": "Thai",
+                    "slug": "th-society-institutes"
+                },
+                {
+                    "name": "sq-unknown-simple.json",
+                    "title": "Albanian Translation",
+                    "author": "Ruwwad Center",
+                    "language": "Albanian",
+                    "slug": "sq-ruwwad"
+                },
+                {
+                    "name": "suliman-kanti-simple.json",
+                    "title": "Suliman Kanti",
+                    "author": "Suliman Kanti",
+                    "language": "Bambara",
+                    "slug": "bm-suliman-kanti"
+                },
+                {
+                    "name": "sv-knut-simple.json",
+                    "title": "Knut Bernström",
+                    "author": "Knut Bernström",
+                    "language": "Swedish",
+                    "slug": "sv-knut-bernstrom"
+                },
+                {
+                    "name": "sw-ali-muhsin-simple.json",
+                    "title": "Ali Muhsin Al-Barwani",
+                    "author": "Ali Muhsin Al-Barwani",
+                    "language": "Swahili",
+                    "slug": "sw-ali-muhsin"
+                },
+                {
+                    "name": "swahili-translation-rowad-translation-center-simple.json",
+                    "title": "Swahili Translation",
+                    "author": "Rowad Translation Center",
+                    "language": "Swahili",
+                    "slug": "sw-rowwad"
+                },
+                {
+                    "name": "ta-jan-trust-simple.json",
+                    "title": "Jan Trust Foundation",
+                    "author": "Jan Trust Foundation",
+                    "language": "Tamil",
+                    "slug": "ta-jan-trust"
+                },
+                {
+                    "name": "tafsir-e-usmani-simple.json",
+                    "title": "Shaykh al-Hind Mahmud al-Hasan (with Tafsir E Usmani)",
+                    "author": "Shaykh al-Hind Mahmud al-Hasan",
+                    "language": "Urdu",
+                    "slug": "ur-tafsir-usmani"
+                },
+                {
+                    "name": "taj-mehmood-amroti-simple.json",
+                    "title": "Taj Mehmood Amroti",
+                    "author": "Taj Mehmood Amroti",
+                    "language": "Sindhi",
+                    "slug": "sd-taj-mehmood"
+                }
+            ]
+        },
+        {
+            "surah": "translations/word-by-word",
+            "files": [
+                {
+                    "name": "bangali-word-by-word-translation.json",
+                    "title": "Bengali wbw translation",
+                    "language": "Bengali (Bangla)"
+                },
+                {
+                    "name": "english-wbw-translation.json",
+                    "title": "English wbw translation",
+                    "language": "English"
+                },
+                {
+                    "name": "french-wbw-translation.json",
+                    "title": "French wbw translation",
+                    "language": "French"
+                },
+                {
+                    "name": "hindi-wbw-translation.json",
+                    "title": "Hindi wbw translation",
+                    "language": "Hindi"
+                },
+                {
+                    "name": "indonesian-word-by-word-translation.json",
+                    "title": "Indonesian wbw translation",
+                    "language": "Indonesian"
+                },
+                {
+                    "name": "ingush-wbw-translation.json",
+                    "title": "Ingush wbw translation",
+                    "language": "Ingush"
+                },
+                {
+                    "name": "persian-wbw-translation.json",
+                    "title": "Persian wbw translation",
+                    "language": "Persian"
+                },
+                {
+                    "name": "tamil-wbw-translation.json",
+                    "title": "Tamil wbw translation",
+                    "language": "Tamil"
+                },
+                {
+                    "name": "turkish-wbw-translation.json",
+                    "title": "Turkish wbw translation",
+                    "language": "Turkish"
+                },
+                {
+                    "name": "urud-wbw.json",
+                    "title": "Urdu wbw translation",
+                    "language": "Urdu"
+                }
+            ]
+        },
+        {
+            "surah": "transliterations",
+            "files": [
+                {
+                    "name": "bengali_transliteration.json",
+                    "language": "Bengali"
+                },
+                {
+                    "name": "english-transliteration-tajweed.json",
+                    "language": "English"
+                },
+                {
+                    "name": "syllables-transliteration.json",
+                    "language": "English"
+                },
+                {
+                    "name": "turkish-transliteration.json",
+                    "language": "Turkish"
+                }
+            ]
+        },
+        {
+            "surah": "transliterations/word-by-word",
+            "files": [
+                {
+                    "name": "english-wbw-transliteration.json",
+                    "language": "English"
+                }
+            ]
+        }
+    ]
+}
